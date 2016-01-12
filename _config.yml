@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Math 13
+tagline:          'BCC - Math 13'
+description:      'Introduction to Statistics'
+url:              http://gastonsanchez.com/math13
+baseurl:          http://gastonsanchez.com/math13
+
+author:
+  name:           'Gaston Sanchez'
+  url:            http://gastonsanchez.com
+
+paginate:         5
+
+# Custom vars
+version:          Spring 2016
+
+github:
+  repo:           https://github.com/gastonstat/math13
