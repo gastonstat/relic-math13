@@ -23,10 +23,10 @@ Tentative Calendar, Spring 2016
     <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 03, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
   </li>
   <li>
-    <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 08, &nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
+    <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 08, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
   </li>
   <li>
-    <a href="06-normal-data"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;<a href="06-normal-data">Normal Approximation for Data</a>
+    <a href="06-normal-data"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="06-normal-data">Normal Approximation for Data</a>
   </li>
 </ul>
 
