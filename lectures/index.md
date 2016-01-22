@@ -26,7 +26,7 @@ Tentative Calendar, Spring 2016
     <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 08, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
   </li>
   <li>
-    <a href="06-normal-data"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="06-normal-data">Normal Approximation for Data</a>
+    <a href="06-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams</a>
   </li>
 </ul>
 
@@ -38,19 +38,19 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> Feb 15, &nbsp;&nbsp;<em>Holiday</em>
   </li>
   <li>
-    <a href="07-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams</a>
+    <a href="07-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 15, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
   </li>
   <li>
-    <a href="08-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 22, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
+    <a href="08-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
   </li>
   <li>
-    <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 24, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
+    <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 22, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
   </li>
   <li>
-    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Prediction Errors</a>
+    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 24, &nbsp;&nbsp;<a href=""><b>1st Test</b></a>
   </li>
   <li>
-    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
+    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
   </li>
 </ul>
 
@@ -59,22 +59,22 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 1</a>
+    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 1</a>
   </li>
   <li>
-    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 2</a>
+    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 2</a>
   </li>
   <li>
-    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="01-course-introduction">Binomial Distribution</a>
+    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="01-course-introduction">Binomial Distribution</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="01-course-introduction">Law of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="01-course-introduction">Law of Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 08, &nbsp;&nbsp;<a href="01-course-introduction">Test Review</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="01-course-introduction">Test Review</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 10, &nbsp;&nbsp;<b>Midterm</b>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
 </ul>
 
@@ -83,19 +83,16 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 15, &nbsp;&nbsp;<a href="01-course-introduction">Law of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 17, &nbsp;&nbsp;<a href="">Expected Value and Standard Error</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 29, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
+    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 31, &nbsp;&nbsp;<a href="">Sample Surveys</a>
-  </li>
-  <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 05, &nbsp;&nbsp;<a href="">Errors in Sampling</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="">Errors in Sampling</a>
   </li>
 </ul>
 
@@ -104,13 +101,13 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 07, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 06, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 12, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 11, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 14, &nbsp;&nbsp;<a href="">Model for Measurement Error</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 13, &nbsp;&nbsp;<a href="">Model for Measurement Error</a>
   </li>
 </ul>
 
@@ -119,16 +116,16 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 19, &nbsp;&nbsp;<a href="">Tests of Significance</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Tests of Significance</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 21, &nbsp;&nbsp;<a href="">Tests for Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="">Tests for Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 26, &nbsp;&nbsp;<a href="">Chi-Square Test</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="">Chi-Square Test</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 28, &nbsp;&nbsp;<a href="">More about tests of significance</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 03, &nbsp;&nbsp;RRR week
