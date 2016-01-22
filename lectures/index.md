@@ -47,7 +47,7 @@ Tentative Calendar, Spring 2016
     <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 22, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
   </li>
   <li>
-    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 24, &nbsp;&nbsp;<a href=""><b>1st Test</b></a>
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 24, &nbsp;&nbsp;<b>1st Test</b>
   </li>
   <li>
     <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
@@ -83,13 +83,13 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
   </li>
   <li>
-    <a href="10-prediction-errors"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="">Errors in Sampling</a>
@@ -125,16 +125,28 @@ Tentative Calendar, Spring 2016
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="">Chi-Square Test</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 03, &nbsp;&nbsp;RRR week
+    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;RRR week
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 05, &nbsp;&nbsp;RRR week
+    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;RRR week
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;<b>Final test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;<b>TBD</b>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;<b>TBD</b>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<b>TBD</b>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> May 18, &nbsp;&nbsp;<b>TBD</b>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> May 23, &nbsp;&nbsp;<b>Final test</b>
   </li>
 </ul>
 
