@@ -11,46 +11,37 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1INcVjbNz9AvNkQTqOG-zXSk45hEdpTHRdMuRt5hYwDA/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>
+    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1INcVjbNz9AvNkQTqOG-zXSk45hEdpTHRdMuRt5hYwDA/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>, <a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">What is Statistics</a>
   </li>
   <li>
-    <a href="02-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 27, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Variables</a>
+    <a href="02-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 27, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/14XU_vLIBUh6yWfxhHxJwCl9irGKG3mCIntlZD6pjkVY/pub?start=false&loop=false&delayms=3000" target="_blank">Descriptive Statistics</a>
   </li>
   <li>
-    <a href="03-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 01, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1heCjLPzYlMzdPGlQKHiGaNFrSRRFmEBVladO9ZNssFI/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
+    <a href="03-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 01, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1QCrikMs63EhU3TALiDXheaMKyAoqEGhz9z6oCxpIi2k/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
   </li>
   <li>
-    <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 03, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
+    <a href="04-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 03, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1wZa-ugbyaCHA-4rAVLxPONuMd9gJc3Ithxogt8Lv-zY/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
   </li>
   <li>
-    <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 08, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
+    <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 08, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1trAK25ZQjuP3El1nsWxjooFwYxOmvd0ODiKX-W6EVJc/pub?start=false&loop=false&delayms=3000" target="_blank">Weighted Averages and Frequency Tables</a>
   </li>
   <li>
-    <a href="06-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Scatter Diagrams</a>
+    <a href="06-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Qualitative Varibales</a>
   </li>
-</ul>
-
-
-### Correlation and Regression
-
-<ul class="fa-ul">
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 15, &nbsp;&nbsp;<em>Holiday</em>
   </li>
   <li>
-    <a href="07-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 15, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
+    <a href="07-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 15, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1sML3V9Ikd6k09Cyl8-gm0DkIK1Zhzpk5rVLND8tAM-o/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Quantitative Variables</a>
   </li>
   <li>
-    <a href="08-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
+    <a href="08-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1ncfKq9Q8HcxuxJ2SiSc78-gf2jvGu6YDmoaKh8EEWCQ/pub?start=false&loop=false&delayms=3000" target="_blank">Discussion</a>
   </li>
   <li>
-    <a href="09-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 22, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;Test Practice
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 24, &nbsp;&nbsp;<b>1st Test</b>
-  </li>
-  <li>
-    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
   </li>
 </ul>
 
@@ -58,6 +49,9 @@ Tentative Calendar, Spring 2016
 ### Probability Basics
 
 <ul class="fa-ul">
+  <li>
+    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
+  </li>
   <li>
     <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 1</a>
   </li>
