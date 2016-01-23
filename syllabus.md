@@ -7,7 +7,6 @@ title: Syllabus
   I reserve the right to make changes to the syllabus
 </p>
 
-![Mrs Mutner's Rules](../public/mrs-mutner-rules.jpg)
 
 ### Description
 
@@ -87,3 +86,5 @@ Upon completion of this course, students will:
 ### Justification for the Course
 
 Satisfies the General Education and Analytical Thinking requirement for Associate Degrees. Provides foundation for more advanced study in mathematics and related fields. Satisfies the Quantitative Reasoning component required for transfer to UC, CSUC, and some independent four-year institutions. Acceptable for credit: CSU, UC. AA/AS area 4b, CSU area B4, IGETC area 2A.
+
+![Mrs Mutner's Rules](../public/mrs-mutner-rules.jpg)
