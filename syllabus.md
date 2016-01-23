@@ -7,7 +7,7 @@ title: Syllabus
   I reserve the right to make changes to the syllabus
 </p>
 
-![Mrs Mutner's Rules](public/mrs-mutner-rules.jpg)
+![Mrs Mutner's Rules](../public/mrs-mutner-rules.jpg)
 
 ### Description
 
