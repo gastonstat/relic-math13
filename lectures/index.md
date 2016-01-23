@@ -32,13 +32,10 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> Feb 15, &nbsp;&nbsp;<em>Holiday</em>
   </li>
   <li>
-    <a href="07-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 15, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1sML3V9Ikd6k09Cyl8-gm0DkIK1Zhzpk5rVLND8tAM-o/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Quantitative Variables</a>
+    <a href="07-correlation"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1sML3V9Ikd6k09Cyl8-gm0DkIK1Zhzpk5rVLND8tAM-o/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Quantitative Variables</a>
   </li>
   <li>
-    <a href="08-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1ncfKq9Q8HcxuxJ2SiSc78-gf2jvGu6YDmoaKh8EEWCQ/pub?start=false&loop=false&delayms=3000" target="_blank">Discussion</a>
-  </li>
-  <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;Test Practice
+    <a href="08-regression"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 22, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1ncfKq9Q8HcxuxJ2SiSc78-gf2jvGu6YDmoaKh8EEWCQ/pub?start=false&loop=false&delayms=3000" target="_blank">Discussion</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 24, &nbsp;&nbsp;<b>1st Test</b>
