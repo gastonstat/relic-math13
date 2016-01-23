@@ -7,6 +7,8 @@ title: Syllabus
   I reserve the right to make changes to the syllabus
 </p>
 
+![Mrs Mutner's Rules](public/mrs-mutner-rules.jpg)
+
 ### Description
 
 __Math 13__ is a course designed primarily as a basic introductory course for statistical thinking. It is not very mathematical. Neither linear algebra nor calculus is required, although some concepts seem more natural if you understand integration and differentiation. You do need to be comfortable with math at the level of high-school algebra (e.g., the equation of a straight line, plotting points, taking powers and roots, percentages). 
@@ -22,6 +24,7 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
 - After the due date of each assignment, you will have access to the correct answers.
 - You get credit for a homework assignment only if you complete all the questions.
+
 
 
 ### Grading Structure
