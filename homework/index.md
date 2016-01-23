@@ -19,17 +19,17 @@ HW assignments are to be turned in during lecture (NO late assignments!)
     <tr>
       <td align="center">1</td>
       <td align="center">Feb 1</td>
-      <td><a href="math13-hw01-questions.pdf">HW1 - Varibales</a></td>
+      <td><a href="math13-hw01-questions.pdf">Types of Variables</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td align="center">Feb ?</td>
-      <td>HW2 - TBA</td>
+      <td align="center">Feb 8</td>
+      <td><a href="math13-hw02-questions.pdf">Measures of center and spread</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
-      <td align="center">Feb ?</td>
-      <td>HW3 - TBA</td>
+      <td align="center">Feb 17</td>
+      <td>Frequency tables and charts</td>
     </tr>
   </tbody>
  </table>

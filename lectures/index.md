@@ -26,7 +26,7 @@ Tentative Calendar, Spring 2016
     <a href="05-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 08, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1trAK25ZQjuP3El1nsWxjooFwYxOmvd0ODiKX-W6EVJc/pub?start=false&loop=false&delayms=3000" target="_blank">Weighted Averages and Frequency Tables</a>
   </li>
   <li>
-    <a href="06-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Qualitative Varibales</a>
+    <a href="06-scatter-diagrams"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Qualitative Variables</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 15, &nbsp;&nbsp;<em>Holiday</em>
