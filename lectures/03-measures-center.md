@@ -36,5 +36,5 @@ Chapter 3, section 3.1
 
 - Pages 88-96
 - Measures of central tendency
-- Mode, Meidan, Mean
+- Mode, Median, Mean
 - Problems section 3.1
