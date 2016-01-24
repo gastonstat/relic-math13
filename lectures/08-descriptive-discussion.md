@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Regression"
+title: "Descriptive Statistics Discussion"
 ---
 
 <h4>
@@ -8,7 +8,7 @@ title: "Regression"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/10eQJ3DxVVuC00mQ5aEBNb0nWZh8oX-vJ5mCJRQH39VA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
+<a href="https://docs.google.com/presentation/d/1ncfKq9Q8HcxuxJ2SiSc78-gf2jvGu6YDmoaKh8EEWCQ/pub?start=false&loop=false&delayms=3000" target="_blank">Discussion</a>
 
 
 <h4>

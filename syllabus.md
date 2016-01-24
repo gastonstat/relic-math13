@@ -19,10 +19,12 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 
 - Weekly homework assignments are due as posted online.
 - Assignments must be turned in during lecture.
-- No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
 - After the due date of each assignment, you will have access to the correct answers.
 - You get credit for a homework assignment only if you complete all the questions.
+- No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
+- Instead of late HW, I will drop two HW assignments
+- You'll get extra credit if you turn in ALL assignments
 
 
 

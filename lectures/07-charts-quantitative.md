@@ -8,7 +8,7 @@ title: "Correlation"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1TNmvkcGnhIpZ3N-XLEJwuOcG9tDd6KbdIDzU4K6wivE/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
+<a href="https://docs.google.com/presentation/d/1sML3V9Ikd6k09Cyl8-gm0DkIK1Zhzpk5rVLND8tAM-o/pub?start=false&loop=false&delayms=3000" target="_blank">Charts for quantitative variables</a>
 
 
 <h4>

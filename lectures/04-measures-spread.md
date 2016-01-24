@@ -8,7 +8,7 @@ title: "Measures of Spread"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1olNOkShLZTBwEywn1AsuX92PvimntXoKMn7eRDh5MRE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
+<a href="https://docs.google.com/presentation/d/1wZa-ugbyaCHA-4rAVLxPONuMd9gJc3Ithxogt8Lv-zY/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
 
 
 <h4>

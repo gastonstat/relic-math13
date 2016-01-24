@@ -8,7 +8,7 @@ title: "Weighted Averages and Frequency Tables"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1_6ZEhuTCDvxesw6H99nJxnJz7shMIU9Hzq4GzWzw0dE/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Approximation for Data</a>
+<a href="https://docs.google.com/presentation/d/1trAK25ZQjuP3El1nsWxjooFwYxOmvd0ODiKX-W6EVJc/pub?start=false&loop=false&delayms=3000" target="_blank">Weighted Averages and Frequency Tables</a>
 
 
 <h4>
@@ -20,7 +20,7 @@ title: "Weighted Averages and Frequency Tables"
 - How to calculate a weighted average
 - What is a frequency table
 - Understand absolute and relative frequencies
-- How to makea frequency table
+- How to make a frequency table
 
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>

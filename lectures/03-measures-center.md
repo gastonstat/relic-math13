@@ -8,7 +8,7 @@ title: "Measures of Center"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/15jjBpSkQmYs99S8A2yvGGR4lwusUcJgBXZYU88158pE/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
+<a href="https://docs.google.com/presentation/d/1QCrikMs63EhU3TALiDXheaMKyAoqEGhz9z6oCxpIi2k/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
 
 
 <h4>

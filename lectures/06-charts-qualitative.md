@@ -8,7 +8,7 @@ title: "Looking at Qualitative Variables"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1qLtoiX8CrpHL70lZ8LBQN0F-xHuwEnhpVNZalaBnSM8/pub?start=false&loop=false&delayms=3000" target="_blank">Charts for qualitative variables</a>
+<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">Charts for qualitative variables</a>
 
 
 <h4>
