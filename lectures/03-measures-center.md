@@ -32,5 +32,9 @@ title: "Measures of Center"
 	Reading
 </h4>
 
-Chapter 4, pages 57-65
+Chapter 3, section 3.1
 
+- Pages 88-96
+- Measures of central tendency
+- Mode, Meidan, Mean
+- Problems section 3.1

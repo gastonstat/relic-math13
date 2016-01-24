@@ -17,12 +17,14 @@ title: "Measures of Spread"
 </h4>
 
 - Understanding measures of spread
+- What do measures of variation tell us?
 - Range
 - Interquartile Range
 - Variance and Standard Deviation
 	- What does it represent?
 	- How to compute it?
 	- When to use it?
+- Coefficient of Variation
 
 
 <h4>
@@ -30,5 +32,9 @@ title: "Measures of Spread"
 	Reading
 </h4>
 
-Chapter 4, pages 66-69
+Chapter 3, section 3.2
 
+- pages 102-121
+- Variance and Standard Deviation
+- Coefficient of Variation
+- Problems section 3.2

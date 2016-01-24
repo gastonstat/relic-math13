@@ -16,9 +16,10 @@ title: "Regression"
 	Learning Objectives
 </h4>
 
-- Understanding the Regression method
-- Regression line between two variables
-- Visualizing a regression line
+- Descriptive Statistics
+- Numeric Measures (center & spread)
+- Frequency Tables
+- Charts and plots
 
 
 <h4>
@@ -26,5 +27,8 @@ title: "Regression"
 	Reading
 </h4>
 
-Chapter 10, pages 158-179 <br>
+Chapter 3, Review
+
+- Pages 132-141
+- Cumulative Problems
 

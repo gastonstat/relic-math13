@@ -16,9 +16,13 @@ title: "Correlation"
 	Learning Objectives
 </h4>
 
-- Understanding correlation
-- How to compute the correlation coefficient
-- Features of the correlation coefficient
+- Determine the types of graphs for quantitative data
+- Understanding Histograms
+- How to draw a histogram
+- Understanding ogives
+- Stem-and-leaf plots
+- Understanding Boxplots
+- How to draw a boxplot
 
 
 <h4>
@@ -26,6 +30,15 @@ title: "Correlation"
 	Reading
 </h4>
 
-Chapter 8, pages 132-134 <br>
-Chapter 9, pages 141-152
+Chapter 2, sections 2.1 and 2.3
 
+- Pages 46-59 and 69-
+- Bar graphs, circle graphs
+- Problems section 2.2
+
+Chapter 3, sections 3.3
+
+- Pages 121-131
+- Boxplots
+- Percentiles
+- Problems section 3.3

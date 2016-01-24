@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Normal Approximation for Data"
+title: "Weighted Averages and Frequency Tables"
 ---
 
 <h4>
@@ -16,16 +16,25 @@ title: "Normal Approximation for Data"
 	Learning Objectives
 </h4>
 
-- Getting to know the Normal Curve
-- Understanding the Standard Normal Curve
-- How to find areas under the normal curve
-- Normal approximation for symmetric distributions
-
+- What is a weighted average
+- How to calculate a weighted average
+- What is a frequency table
+- Understand absolute and relative frequencies
+- How to makea frequency table
 
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>
 	Reading
 </h4>
 
-Chapter 5, pages 78-93
+Chapter 3, pages 96-102
+
+- Weighted Average
+- Problems section 3.1
+
+Chapter 2, pages 42-46
+
+- Frequency Tables
+- Problems section 2.1, exercises 15-22
+
 

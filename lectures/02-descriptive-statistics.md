@@ -32,6 +32,7 @@ title: "Descriptive Statistics"
 
 Chapter 1, section 1.1
 
+- Pages 2-12
 - What is Statistics?
 - Levels of Measurement
 - Terminology
