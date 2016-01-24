@@ -38,3 +38,12 @@ Chapter 3, section 3.2
 - Variance and Standard Deviation
 - Coefficient of Variation
 - Problems section 3.2
+
+Chapter 3, section 3.3
+
+- pages 122-131
+- Percentiles
+- Quartiles
+- Inter-Quartile Range (IQR)
+- Five-number summary
+- Problems section 3.3
