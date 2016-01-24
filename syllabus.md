@@ -15,7 +15,7 @@ __Math 13__ is a course designed primarily as a basic introductory course for st
 The middle of the course involves a fair amount of combinatorics—counting. The emphasis of the course is critical thinking about quantitative evidence. Topics include reasoning and fallacies, descriptive statistics, association, correlation, regression, elements of probability, set theory, chance variability, random variables, expectation, standard error, sampling, hypothesis tests, confidence intervals, experiments and observational studies, as well as common techniques of presenting data in misleading ways.
 
 
-### Homework Assignments
+### <a name="hw-policy"></a>Homework Assignments
 
 - Weekly homework assignments are due as posted online.
 - Assignments must be turned in during lecture.
