@@ -42,7 +42,7 @@ Your course grade is based on homework, in-class participation, midterm exams, a
 
 - Midterm exams will include material and examples presented in lecture, examples from the textbook, and the exercises you are assigned in homework and for practice.
 - Midterm exams are worth 60% of your course grade.
-- The Final Exam will be a comprehensive exam, covering all topics presented in the course. It is worth 20% of your course grade. T​he Final Exam will take place on the Monday of Final Exam week during class time 3:30pm – 5:20pm.
+- The Final Exam will be a comprehensive exam, covering all topics presented in the course. It is worth 20% of your course grade. T​he Final Exam will take place on the Monday of Final Exam week during class time.
 - Absolutely no make-up exams will be given.
 - You are allowed to use a n​on-graphing​ scientific calculator during each exam. Other electronic devices such as smart phones, mobile devices, laptops, and tablets are NOT permitted during exams.
 - _Please keep all of your exams._ ​This work is the only evidence outside of attending class of your efforts to succeed in the course.
@@ -55,7 +55,8 @@ Your course grade is based on homework, in-class participation, midterm exams, a
 - Your attendance is an important part of your success in this course. Students who regularly miss class may therefore lose participation percentage points.
 - Students who miss more than 20% of classes will lose all participation points.
 - While attending class, please help to maintain a decent learning environment.
-- No laptops, tablets, cell phones, or other similar electronic devices are allowed during lecture. Please be considerate of others; t​urn o​ff​ your cell phones and put them away.
+- No laptops, tablets, cell phones, or other similar electronic devices are allowed during lecture. 
+- Please be considerate of others; t​urn o​ff​ your cell phones and put them away.
 - Sit close to the door if you must leave early. If you are late, please try to find a seat as quickly and quietly as possible.
 
 
