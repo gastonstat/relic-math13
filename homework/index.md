@@ -17,12 +17,12 @@ HW assignments are to be turned in during lecture (see <a href="syllabus#hw-poli
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td align="center">Feb 1</td>
+      <td align="center">Feb 3</td>
       <td><a href="math13-hw01-questions.pdf">Types of Variables</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
-      <td align="center">Feb 8</td>
+      <td align="center">Feb 10</td>
       <td><a href="math13-hw02-questions.pdf">Measures of center and spread</a></td>
     </tr>
     <tr>
