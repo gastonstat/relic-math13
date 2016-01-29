@@ -37,6 +37,14 @@ Your course grade is based on homework, in-class participation, midterm exams, a
 - 60% midterms
 - 20% final
 
+The final letter-grade scale is:
+
+- A: 90%-100%
+- B: 80%-89%
+- C: 70%-79%
+- D: 60%-69%
+- F: below 60%
+
 
 ### Exams
 
