@@ -21,8 +21,20 @@ title: "Descriptive Statistics"
 - Different types of variables
 - Difference between qualitative and quantitative variables
 - Describing a quantitative variable
-- Explain what is a histogram
-- Learn how to read and interpret a histogram
+
+
+<h4>
+	<span class="fa fa-users fa-lg main-list-item-icon"></span>
+	Classroom activity
+</h4>
+
+Form groups of about 4 students, and select an object on which observe:
+
+- 5 quantitative variables
+- 5 qualitative variables
+- include at least one type of scale (i.e. measurement level)
+- choose one quantitative variable and convert it to qualitative
+- choose one qualitative variable and think of an alternative quantitative variable associated to it
 
 
 <h4>
