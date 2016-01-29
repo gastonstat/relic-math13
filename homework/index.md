@@ -3,7 +3,7 @@ layout: page
 title: Homework
 ---
 
-HW assignments are to be turned in during lecture (see <a href="syllabus#hw-policy">NO late assignments!</a>)
+HW assignments are to be turned in during lecture (<a href="../syllabus#hw-policy">NO late assignments!</a>)
 <hr>
 
 <table>
