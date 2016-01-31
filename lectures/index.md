@@ -47,7 +47,7 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">RUles of Probability 1</a>
+    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Rules of Probability 1</a>
   </li>
   <li>
     <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="">Rules of Probability 2</a>
@@ -79,7 +79,7 @@ Tentative Calendar, Spring 2016
 </ul>
 
 
-### Estimation
+### Estimation and Tests of Significance
 
 <ul class="fa-ul">
   <li>
@@ -94,12 +94,6 @@ Tentative Calendar, Spring 2016
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 13, &nbsp;&nbsp;<a href="">Model for Measurement Error</a>
   </li>
-</ul>
-
-
-### Tests of Significance
-
-<ul class="fa-ul">
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Tests of Significance</a>
   </li>
@@ -112,23 +106,29 @@ Tentative Calendar, Spring 2016
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
   </li>
+</ul>
+
+
+### Correlation and Regression
+
+<ul class="fa-ul">
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;RRR week
+    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;TBD
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;RRR week
+    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;TBD
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;<b>TBD</b>
+    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;TBD
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;<b>TBD</b>
+    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;TBD
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<b>TBD</b>
+    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;TBD
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 18, &nbsp;&nbsp;<b>TBD</b>
+    <i class="fa-li fa fa-thumb-tack"></i> May 18, &nbsp;&nbsp;TBD
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 23, &nbsp;&nbsp;<b>Final test</b>
