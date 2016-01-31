@@ -47,32 +47,26 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="11-descriptive-review"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Descriptive Statistics Review</a>
+    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">RUles of Probability 1</a>
   </li>
   <li>
-    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 1</a>
+    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="">Rules of Probability 2</a>
   </li>
   <li>
-    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="01-course-introduction">Rules of Probability 2</a>
+    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
   </li>
   <li>
-    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="01-course-introduction">Binomial Distribution</a>
+    <a href="14-normal"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="">Normal Distribution</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="01-course-introduction">Law of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="">Law of Averages</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="01-course-introduction">Test Review</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="">TBD</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
-</ul>
-
-
-### Chance Variability
-
-<ul class="fa-ul">
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
@@ -82,15 +76,15 @@ Tentative Calendar, Spring 2016
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
   </li>
-  <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="">Errors in Sampling</a>
-  </li>
 </ul>
 
 
 ### Estimation
 
 <ul class="fa-ul">
+  <li>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="">Errors in Sampling</a>
+  </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 06, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
   </li>
