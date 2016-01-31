@@ -20,7 +20,7 @@ title: "Descriptive Statistics"
 - Concept of "Data"
 - Different types of variables
 - Difference between qualitative and quantitative variables
-- Describing a quantitative variable
+- Types of scales or "levels of measurement"
 
 
 <h4>
@@ -28,10 +28,10 @@ title: "Descriptive Statistics"
 	Classroom activity
 </h4>
 
-Form groups of about 4 students, and select an object on which observe:
+Form groups of (about) 4 students, and select an object on which 10 variables can be observed:
 
-- 5 quantitative variables
-- 5 qualitative variables
+- list 5 quantitative variables
+- list 5 qualitative variables
 - include at least one type of scale (i.e. measurement level)
 - choose one quantitative variable and convert it to qualitative
 - choose one qualitative variable and think of an alternative quantitative variable associated to it
