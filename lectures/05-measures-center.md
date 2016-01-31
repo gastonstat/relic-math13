@@ -29,6 +29,9 @@ title: "Measures of Center"
 	- What does it represent?
 	- How to compute it?
 	- When to use it?
+- Weighted Average
+	- What does it represent?
+	- How to compute?
 
 	
 <h4>
@@ -41,4 +44,5 @@ Chapter 3, section 3.1
 - Pages 88-96
 - Measures of central tendency
 - Mode, Median, Mean
+- Weighted Average
 - Problems section 3.1
