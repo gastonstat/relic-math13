@@ -11,10 +11,10 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1INcVjbNz9AvNkQTqOG-zXSk45hEdpTHRdMuRt5hYwDA/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>, <a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">What is Statistics</a>
+    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1INcVjbNz9AvNkQTqOG-zXSk45hEdpTHRdMuRt5hYwDA/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>
   </li>
   <li>
-    <a href="02-descriptive-statistics"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 27, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/14XU_vLIBUh6yWfxhHxJwCl9irGKG3mCIntlZD6pjkVY/pub?start=false&loop=false&delayms=3000" target="_blank">Descriptive Statistics</a>
+    <a href="02-descriptive-statistics"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 27, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">Data and Variables</a>
   </li>
   <li>
     <a href="03-frequency-tables"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 01, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1u-DBE9BbnGCcujiJ3Q-03VkMqQywybAPzb5uLIsEl8k/pub?start=false&loop=false&delayms=3000" target="_blank">Frequency Tables and Bar Graphics</a>

@@ -8,7 +8,7 @@ title: "Descriptive Statistics"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/14XU_vLIBUh6yWfxhHxJwCl9irGKG3mCIntlZD6pjkVY/pub?start=false&loop=false&delayms=3000" target="_blank">Descriptive Statistics</a>
+<a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">Descriptive Statistics</a>
 
 
 <h4>
