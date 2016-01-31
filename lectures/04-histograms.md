@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Frequency tables and barcharts"
+title: "Histograms"
 ---
 
 <h4>
@@ -8,7 +8,7 @@ title: "Frequency tables and barcharts"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1u-DBE9BbnGCcujiJ3Q-03VkMqQywybAPzb5uLIsEl8k/pub?start=false&loop=false&delayms=3000" target="_blank">Frequency Tables and Barcharts</a>
+<a href="https://docs.google.com/presentation/d/1fM4k0x-glH6deRNO8ekrQjRqPQdroMfap67NB6MfYPo/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
 
 
 <h4>
@@ -16,9 +16,10 @@ title: "Frequency tables and barcharts"
 	Learning Objectives
 </h4>
 
-- How to make a frequency table
-- Understand __frequencies__ (i.e. counts) and __relative frequencies__ (i.e. percents)
-- Bar-charts
+- Understanding histograms
+- How to read a histogram
+- How to make a histograms
+- Difference between bar-charts and histograms
 
 
 <h4>
@@ -28,9 +29,8 @@ title: "Frequency tables and barcharts"
 
 Form groups of (about) 4 students, and work on the dataset <a href="https://docs.google.com/spreadsheets/d/1SNc-pzh82H77iU7PTwOcrOsUKMXSy3Cw3HeneEzmtDg/pubhtml?gid=0&single=true" target="_blank">camping tents</a>
 
-- make frequency tables (counts and percents) of 2 qualitative variables
-- make frequency tables (counts and percents) of 2 quantitative variables (how to choose number of classes?)
-- make bar-charts based on each frequency table
+- make frequency tables (counts and percents) of quantitative variables (how to choose number of classes?)
+- make histograms of quantitative variables
 
 
 <h4>

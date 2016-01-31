@@ -17,29 +17,20 @@ title: "Measures of Center"
 </h4>
 
 - Understanding measures of center
-- Mean
+- Mode
 	- What does it represent?
-	- How to compute it?
+	- How to compute?
 	- When to use it?
 - Median
 	- What does it represent?
 	- How to compute it?
 	- When to use it?
+- Mean
+	- What does it represent?
+	- How to compute it?
+	- When to use it?
 
-
-<h4>
-	<span class="fa fa-users fa-lg main-list-item-icon"></span>
-	Classroom activity
-</h4>
-
-Form groups of about 4 students, and work on the dataset <a href="https://docs.google.com/spreadsheets/d/1SNc-pzh82H77iU7PTwOcrOsUKMXSy3Cw3HeneEzmtDg/pubhtml?gid=0&single=true" target="_blank">camping tents</a>
-
-- make frequency tables (counts and percents) of qualitative variables
-- make frequency tables (counts and percents) of quantitative variables (how to choose number of classes?)
-- make bar-charts based on each frequency table
-- make histograms of quantitative variables
-
-
+	
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>
 	Reading
