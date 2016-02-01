@@ -23,7 +23,7 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
     <tr>
       <td align="center">2</td>
       <td align="center">Feb 10</td>
-      <td><a href="math13-hw02-questions.pdf">Frequency Tables and Bar Graphics/a></td>
+      <td><a href="math13-hw02-questions.pdf">Frequency Tables and Bar Graphics</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
