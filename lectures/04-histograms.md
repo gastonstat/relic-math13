@@ -38,14 +38,9 @@ Form groups of (about) 4 students, and work on the dataset <a href="https://docs
 	Reading
 </h4>
 
-Chapter 2, sections 2.2
+Chapter 2, section 2.1
 
-- Pages 59-69
-- Bar graphs
-- Problems section 2.2
-
-Chapter 2, sections 2.1 and 2.3
-
-- Pages 46-59 and 69-
-- Bar graphs, circle graphs
-- Problems section 2.2
+- Pages 46-59
+- Histogram and Relative-Frequency Histogram
+- Distribution shapes
+- Problems section 2.1
