@@ -30,5 +30,10 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
       <td align="center">Feb 17</td>
       <td>Measures of center and spread</td>
     </tr>
+    <tr>
+      <td align="center">4</td>
+      <td align="center">Feb 24</td>
+      <td>Wrapping up descriptive statistics</td>
+    </tr>
   </tbody>
  </table>
