@@ -28,7 +28,7 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
     <tr>
       <td align="center">3</td>
       <td align="center">Feb 17</td>
-      <td>Measures of center and spread</td>
+      <td><a href="math13-hw03-questions.pdf">Measures of center and spread</a></td>
     </tr>
     <tr>
       <td align="center">4</td>
