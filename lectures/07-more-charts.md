@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Looking at Qualitative Variables"
+title: "More Charts and Graphics"
 ---
 
 <h4>
@@ -17,9 +17,13 @@ title: "Looking at Qualitative Variables"
 </h4>
 
 - Determine the types of graphs for qualitative data
-- How to construct a Bar charts
+- Determine the types of graphs for quantitative data
 - Understanding Pie charts
 - How to construct Pareto charts
+- Understanding ogives
+- Stem-and-leaf plots
+- Understanding Boxplots
+- How to draw a boxplot
 
 
 <h4>
@@ -32,3 +36,10 @@ Chapter 2, sections 2.2
 - Pages 59-69
 - Bar graphs, circle graphs
 - Problems section 2.2
+
+Chapter 3, sections 3.3
+
+- Pages 121-131
+- Boxplots
+- Percentiles
+- Problems section 3.3
