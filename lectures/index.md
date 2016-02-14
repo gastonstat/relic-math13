@@ -35,7 +35,7 @@ Tentative Calendar, Spring 2016
     <a href="07-charts-qualitative"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;Descriptive Statistics Review
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Descriptive Statistics Review</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 24, &nbsp;&nbsp;<b>1st Test</b>
