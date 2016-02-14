@@ -33,7 +33,7 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
     <tr>
       <td align="center">4</td>
       <td align="center">Feb 24</td>
-      <td>Wrapping up descriptive statistics</td>
+      <td><a href="math13-hw04-questions.pdf">Charts and Graphics</td>
     </tr>
   </tbody>
- </table>
+</table>
