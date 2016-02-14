@@ -32,7 +32,7 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> Feb 15, &nbsp;&nbsp;<em>Holiday</em>
   </li>
   <li>
-    <a href="07-charts-qualitative"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">Looking at Qualitative Variables</a>
+    <a href="07-charts-qualitative"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;Descriptive Statistics Review
