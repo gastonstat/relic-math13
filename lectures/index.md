@@ -47,22 +47,22 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="12-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Rules of Probability 1</a>
+    <a href="08-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 29, &nbsp;&nbsp;<a href="">Rules of Probability 1</a>
   </li>
   <li>
-    <a href="13-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="">Rules of Probability 2</a>
+    <a href="09-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="">Rules of Probability 2</a>
   </li>
   <li>
-    <a href="14-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
+    <a href="10-counting"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="">Trees and Counting Techniques</a>
   </li>
   <li>
-    <a href="14-normal"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="">Normal Distribution</a>
+    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="">Random Variables</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="">Law of Averages</a>
+    <a href="12-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="">TBD</a>
+    <a href="13-normal-distribution1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="">Normal Distribution 1</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
@@ -71,7 +71,7 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Approximation for Probability Histograms</a>
+    <a href="14-normal-distribution2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Distribution 2</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
