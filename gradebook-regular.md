@@ -4,7 +4,7 @@ title: "Gradebook - 20308"
 ---
 
 <!-- html table generated in R 3.2.3 by xtable 1.8-2 package -->
-<!-- Fri Feb 26 15:01:27 2016 -->
+<!-- Fri Feb 26 15:09:19 2016 -->
 <table >
 <tr> <th> sid </th> <th> attendance </th> <th> homework </th> <th> test1 </th> <th> score </th> <th> grade </th>  </tr>
   <tr> <td align="right"> 10030268 </td> <td align="right"> 62.50 </td> <td align="right"> 50.00 </td> <td align="right">  </td> <td align="right">  </td> <td>  </td> </tr>
