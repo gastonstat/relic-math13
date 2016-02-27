@@ -5,7 +5,7 @@ title: "Gradebook - 20743"
 
 -----
 
-The following table gives you a preliminary estimate of your current grade (but keep in mind it is not adjusted for <a href="../syllabus#attendance-policy">attendance</a> policy, <a name="../syllabus#hw-policy">homework</a> policy, and extra credit)
+The following table gives you a preliminary estimate of your current grade (but keep in mind it is not adjusted for <a href="../syllabus#attendance-policy">attendance</a> policy, <a href="../syllabus#hw-policy">homework</a> policy, and extra credit)
 
 Grading Weights:
 
