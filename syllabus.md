@@ -23,7 +23,7 @@ The middle of the course involves a fair amount of combinatorics—counting. The
 - After the due date of each assignment, you will have access to the correct answers.
 - You get credit for a homework assignment only if you complete all the questions.
 - No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
-- Instead of late HW, I will drop two HW assignments
+- Instead of late HW, I will drop two HW assignments at the end of the semester.
 - You'll get extra credit if you turn in ALL assignments
 
 
@@ -56,16 +56,20 @@ The final letter-grade scale is:
 - _Please keep all of your exams._ ​This work is the only evidence outside of attending class of your efforts to succeed in the course.
 
 
-### Attendance Policy
+### <a name="attendance-policy"></a> Attendance Policy
 
-- You may be dropped if you are absent for more than one consecutive week of class without contacting me to explain your absences.
-- Those who perform poorly on an exam, then fail to take the next one, w​ill​ be dropped.
 - Your attendance is an important part of your success in this course. Students who regularly miss class may therefore lose participation percentage points.
+- You are entitled to 3 non-consecutive absences without downgrading your participation.
+- If you never miss lecture, you'll get extra-credit.
 - Students who miss more than 20% of classes will lose all participation points.
+- You may be dropped if you are absent for more than one consecutive week of class without contacting me to explain your absences.
+- If you are not present when I call roll, you will get an absence.
+- Those who perform poorly on an exam, then fail to take the next one, w​ill​ be dropped.
 - While attending class, please help to maintain a decent learning environment.
 - No laptops, tablets, cell phones, or other similar electronic devices are allowed during lecture. 
 - Please be considerate of others; t​urn o​ff​ your cell phones and put them away.
 - Sit close to the door if you must leave early. If you are late, please try to find a seat as quickly and quietly as possible.
+
 
 
 ### <a name="email-policy"></a>Email Policy
