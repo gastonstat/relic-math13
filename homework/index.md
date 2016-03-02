@@ -38,7 +38,7 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
     <tr>
       <td align="center">5</td>
       <td align="center">Mar 9</td>
-      <td>TBA</td>
+      <td><a href="math13-hw05-questions.pdf">Probability 1</td>
     </tr>
   </tbody>
 </table>
