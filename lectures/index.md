@@ -53,7 +53,7 @@ Tentative Calendar, Spring 2016
     <a href="09-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Xxy6ZoVBN9duY5iy9j-4yXKywDbK4fRWo5wadyPsOjk/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 2</a>
   </li>
   <li>
-    <a href="10-counting"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="">Trees and Counting Techniques</a>
+    <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000">Trees and Counting Principles</a>
   </li>
   <li>
     <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="">Random Variables</a>
