@@ -56,13 +56,13 @@ Tentative Calendar, Spring 2016
     <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
   </li>
   <li>
-    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 09, &nbsp;&nbsp;<a href="">Review Chapter 4</a>
   </li>
   <li>
-    <a href="12-binomial"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
+    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
   </li>
   <li>
-    <a href="13-normal-distribution1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="">Normal Distribution 1</a>
+    <a href="12-binomial-distribution1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
@@ -71,7 +71,7 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
   <li>
-    <a href="14-normal-distribution2"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Distribution 2</a>
+    <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Distribution</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
