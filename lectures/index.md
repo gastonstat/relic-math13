@@ -62,7 +62,7 @@ Tentative Calendar, Spring 2016
     <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
   </li>
   <li>
-    <a href="12-binomial-distribution1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="">Binomial Distribution</a>
+    <a href="12-binomial-distribution1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1l269oLR23ZkZe2allThPMn2PMj6Q9MVp7j8oL2uiVuI/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
