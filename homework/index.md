@@ -45,5 +45,10 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
       <td align="center">Mar 16</td>
       <td><a href="math13-hw06-questions.pdf">More Probability and Counting</a></td>
     </tr>
+    <tr>
+      <td align="center">7</td>
+      <td align="center">Mar 28</td>
+      <td><a href="math13-hw07-questions.pdf">Random Variables and Binomial Distribution</a></td>
+    </tr>
   </tbody>
 </table>
