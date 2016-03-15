@@ -29,5 +29,5 @@ title: "Counting Principles"
 Chapter 4, sections 4.3
 
 - Pages 177-193
-- Probelms section 4.3
+- Problems section 4.3
 - Chapter Review Problems

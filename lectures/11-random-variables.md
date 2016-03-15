@@ -31,4 +31,4 @@ title: "Random Variables"
 Chapter 5, sections 5.1
 
 - Pages 194-200
-- Probelms section 5.1
+- Problems section 5.1

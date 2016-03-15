@@ -33,4 +33,4 @@ title: "Probability Rules 2"
 Chapter 4, sections 4.2
 
 - Pages 142-162
-- Probelms section 4.2
+- Problems section 4.2
