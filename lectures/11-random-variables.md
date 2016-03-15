@@ -16,10 +16,12 @@ title: "Random Variables"
 	Learning Objectives
 </h4>
 
-- Multiplication Rule: total number of possible outcomes for a sequence of events.
-- Tree diagrams: visual display of all the resulting outcomes.
-- Permutation rule: total number of ways we can arrange in order _n_ distinct objects into a group of size _k_.
-- Combination rule: how many ways we can form _n_ distinct objects into a group of size _k_ (order of objects is irrelevant).
+- What is a Random Variable (RV)
+- Types of random variables
+- Probability Distributions of RVs
+- Expected Value (EV)
+- Variance (Var)
+
 
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>
