@@ -35,7 +35,7 @@ Tentative Calendar, Spring 2016
     <a href="07-more-charts"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 17, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Descriptive Statistics Review</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 22, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Feb 24, &nbsp;&nbsp;<b>1st Test</b>
@@ -56,13 +56,13 @@ Tentative Calendar, Spring 2016
     <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 09, &nbsp;&nbsp;<a href="">Review Chapter 4</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 09, &nbsp;&nbsp;Review Chapter 4
   </li>
   <li>
     <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
   </li>
   <li>
-    <a href="12-binomial-distribution1"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1l269oLR23ZkZe2allThPMn2PMj6Q9MVp7j8oL2uiVuI/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
+    <a href="12-binomial-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1l269oLR23ZkZe2allThPMn2PMj6Q9MVp7j8oL2uiVuI/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
@@ -72,6 +72,9 @@ Tentative Calendar, Spring 2016
   </li>
   <li>
     <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Normal Distribution</a>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i></a> Mar 28, &nbsp;&nbsp;<a href="">Practice Test 2</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 30, &nbsp;&nbsp;<b>2nd Test</b>
