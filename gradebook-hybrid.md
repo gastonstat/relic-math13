@@ -16,45 +16,48 @@ Grading Weights:
 - all scores are expressed on a scale of 0-100 pts
 
 <!-- html table generated in R 3.2.3 by xtable 1.8-2 package -->
-<!-- Thu Mar 17 08:58:08 2016 -->
+<!-- Mon Mar 21 12:47:31 2016 -->
 <table >
 <tr> <th> sid </th> <th> attendance </th> <th> homework </th> <th> test1 </th> <th> score </th> <th> grade </th>  </tr>
-  <tr> <td align="right"> 10030268 </td> <td align="right"> 42.86 </td> <td align="right"> 33.33 </td> <td align="right">  </td> <td align="right">  </td> <td align="right">  </td> </tr>
-  <tr> <td align="right"> 10069300 </td> <td align="right"> 85.71 </td> <td align="right"> 83.33 </td> <td align="right"> 58.33 </td> <td align="right"> 71.13 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10075586 </td> <td align="right"> 92.86 </td> <td align="right"> 100.00 </td> <td align="right"> 86.11 </td> <td align="right"> 92.16 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10085403 </td> <td align="right"> 50.00 </td> <td align="right"> 50.00 </td> <td align="right">  </td> <td align="right">  </td> <td align="right">  </td> </tr>
-  <tr> <td align="right"> 10792577 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 94.44 </td> <td align="right"> 95.43 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10797517 </td> <td align="right"> 92.86 </td> <td align="right"> 83.33 </td> <td align="right"> 53.70 </td> <td align="right"> 69.71 </td> <td align="right"> D </td> </tr>
-  <tr> <td align="right"> 10823934 </td> <td align="right"> 92.86 </td> <td align="right"> 100.00 </td> <td align="right"> 91.67 </td> <td align="right"> 94.94 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10856346 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 88.89 </td> <td align="right"> 92.66 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10858635 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 87.50 </td> <td align="right"> 91.96 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10865483 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 81.48 </td> <td align="right"> 90.74 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10872003 </td> <td align="right"> 85.71 </td> <td align="right"> 66.67 </td> <td align="right"> 75.46 </td> <td align="right"> 73.44 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10874342 </td> <td align="right"> 85.71 </td> <td align="right"> 83.33 </td> <td align="right"> 67.13 </td> <td align="right"> 75.53 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10875663 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 56.94 </td> <td align="right"> 76.68 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10877259 </td> <td align="right"> 85.71 </td> <td align="right"> 50.00 </td> <td align="right"> 61.11 </td> <td align="right"> 60.02 </td> <td align="right"> D </td> </tr>
-  <tr> <td align="right"> 10878886 </td> <td align="right"> 92.86 </td> <td align="right"> 100.00 </td> <td align="right"> 90.74 </td> <td align="right"> 94.48 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10879052 </td> <td align="right"> 85.71 </td> <td align="right"> 83.33 </td> <td align="right"> 55.09 </td> <td align="right"> 69.51 </td> <td align="right"> D </td> </tr>
-  <tr> <td align="right"> 10881483 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 50.46 </td> <td align="right"> 75.23 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10883162 </td> <td align="right"> 64.29 </td> <td align="right"> 66.67 </td> <td align="right"> 31.94 </td> <td align="right"> 49.01 </td> <td align="right"> F </td> </tr>
-  <tr> <td align="right"> 10886848 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 99.07 </td> <td align="right"> 99.53 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10887779 </td> <td align="right"> 42.86 </td> <td align="right"> 50.00 </td> <td align="right">  </td> <td align="right">  </td> <td align="right">  </td> </tr>
-  <tr> <td align="right"> 10891050 </td> <td align="right"> 92.86 </td> <td align="right"> 83.33 </td> <td align="right"> 49.07 </td> <td align="right"> 67.39 </td> <td align="right"> D </td> </tr>
-  <tr> <td align="right"> 10893550 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 76.85 </td> <td align="right"> 88.42 </td> <td align="right"> B </td> </tr>
-  <tr> <td align="right"> 10894607 </td> <td align="right"> 92.86 </td> <td align="right"> 100.00 </td> <td align="right"> 83.33 </td> <td align="right"> 90.77 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10895216 </td> <td align="right"> 64.29 </td> <td align="right"> 66.67 </td> <td align="right"> 46.30 </td> <td align="right"> 56.19 </td> <td align="right"> F </td> </tr>
-  <tr> <td align="right"> 10895382 </td> <td align="right"> 92.86 </td> <td align="right"> 100.00 </td> <td align="right"> 55.56 </td> <td align="right"> 76.89 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10896323 </td> <td align="right"> 78.57 </td> <td align="right"> 100.00 </td> <td align="right"> 83.33 </td> <td align="right"> 88.99 </td> <td align="right"> B </td> </tr>
-  <tr> <td align="right"> 10897381 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 89.81 </td> <td align="right"> 93.12 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10898282 </td> <td align="right"> 92.86 </td> <td align="right"> 83.33 </td> <td align="right"> 85.19 </td> <td align="right"> 85.45 </td> <td align="right"> B </td> </tr>
-  <tr> <td align="right"> 10900725 </td> <td align="right"> 64.29 </td> <td align="right"> 50.00 </td> <td align="right"> 87.96 </td> <td align="right"> 70.77 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10914622 </td> <td align="right"> 64.29 </td> <td align="right"> 83.33 </td> <td align="right"> 96.30 </td> <td align="right"> 87.44 </td> <td align="right"> B </td> </tr>
-  <tr> <td align="right"> 10914678 </td> <td align="right"> 57.14 </td> <td align="right"> 66.67 </td> <td align="right"> 86.11 </td> <td align="right"> 75.20 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10916851 </td> <td align="right"> 78.57 </td> <td align="right"> 83.33 </td> <td align="right"> 56.94 </td> <td align="right"> 69.54 </td> <td align="right"> D </td> </tr>
-  <tr> <td align="right"> 10917729 </td> <td align="right"> 71.43 </td> <td align="right"> 83.33 </td> <td align="right"> 85.19 </td> <td align="right"> 82.77 </td> <td align="right"> B </td> </tr>
-  <tr> <td align="right"> 10917836 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 84.26 </td> <td align="right"> 90.34 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10931127 </td> <td align="right"> 78.57 </td> <td align="right"> 83.33 </td> <td align="right"> 62.04 </td> <td align="right"> 72.09 </td> <td align="right"> C </td> </tr>
-  <tr> <td align="right"> 10933952 </td> <td align="right"> 85.71 </td> <td align="right"> 100.00 </td> <td align="right"> 92.59 </td> <td align="right"> 94.51 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10934087 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 91.67 </td> <td align="right"> 95.83 </td> <td align="right"> A </td> </tr>
-  <tr> <td align="right"> 10934356 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 88.43 </td> <td align="right"> 94.22 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10000000 </td> <td align="right"> 69.23 </td> <td align="right"> 83.33 </td> <td align="right"> 106.00 </td> <td align="right"> 92.90 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10020889 </td> <td align="right"> 100.00 </td> <td align="right"> 83.33 </td> <td align="right"> 30.00 </td> <td align="right"> 58.75 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10096763 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 101.00 </td> <td align="right"> 100.50 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10132979 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 92.00 </td> <td align="right"> 96.00 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10137656 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 77.00 </td> <td align="right"> 88.50 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10192543 </td> <td align="right"> 61.54 </td> <td align="right"> 83.33 </td> <td align="right"> 92.00 </td> <td align="right"> 84.94 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10397978 </td> <td align="right"> 161.54 </td> <td align="right"> 83.33 </td> <td align="right"> 39.00 </td> <td align="right"> 70.94 </td> <td align="right"> C </td> </tr>
+  <tr> <td align="right"> 10749963 </td> <td align="right"> 69.23 </td> <td align="right"> 33.33 </td> <td align="right"> 56.50 </td> <td align="right"> 49.40 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10775140 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 35.00 </td> <td align="right"> 67.50 </td> <td align="right"> D </td> </tr>
+  <tr> <td align="right"> 10786335 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 95.00 </td> <td align="right"> 97.50 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10797396 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 107.00 </td> <td align="right"> 103.50 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10804183 </td> <td align="right"> 92.31 </td> <td align="right"> 83.33 </td> <td align="right"> 85.00 </td> <td align="right"> 85.29 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10813929 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 98.00 </td> <td align="right"> 99.00 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10826987 </td> <td align="right"> 92.31 </td> <td align="right"> 83.33 </td> <td align="right"> 92.00 </td> <td align="right"> 88.79 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10829304 </td> <td align="right"> 92.31 </td> <td align="right"> 83.33 </td> <td align="right"> 76.00 </td> <td align="right"> 80.79 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10832132 </td> <td align="right"> 30.77 </td> <td align="right"> 33.33 </td> <td align="right"> 0.00 </td> <td align="right"> 16.35 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10842594 </td> <td align="right"> 100.00 </td> <td align="right"> 83.33 </td> <td align="right"> 77.00 </td> <td align="right"> 82.25 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10853427 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 106.00 </td> <td align="right"> 103.00 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10857232 </td> <td align="right"> 84.62 </td> <td align="right"> 100.00 </td> <td align="right"> 78.00 </td> <td align="right"> 87.08 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10860657 </td> <td align="right"> 92.31 </td> <td align="right"> 100.00 </td> <td align="right"> 71.00 </td> <td align="right"> 84.54 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10860937 </td> <td align="right"> 92.31 </td> <td align="right"> 83.33 </td> <td align="right"> 78.50 </td> <td align="right"> 82.04 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10865426 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 69.00 </td> <td align="right"> 84.50 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10866333 </td> <td align="right"> 61.54 </td> <td align="right"> 100.00 </td> <td align="right"> 87.00 </td> <td align="right"> 88.69 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10866491 </td> <td align="right"> 92.31 </td> <td align="right"> 100.00 </td> <td align="right"> 82.00 </td> <td align="right"> 90.04 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10866846 </td> <td align="right"> 100.00 </td> <td align="right"> 83.33 </td> <td align="right"> 81.50 </td> <td align="right"> 84.50 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10870969 </td> <td align="right"> 61.54 </td> <td align="right"> 66.67 </td> <td align="right"> 48.00 </td> <td align="right"> 56.69 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10878559 </td> <td align="right"> 53.85 </td> <td align="right"> 100.00 </td> <td align="right"> 92.00 </td> <td align="right"> 90.23 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10884043 </td> <td align="right"> 69.23 </td> <td align="right"> 66.67 </td> <td align="right"> 32.00 </td> <td align="right"> 49.65 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10889699 </td> <td align="right"> 100.00 </td> <td align="right"> 66.67 </td> <td align="right"> 38.00 </td> <td align="right"> 56.50 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10892609 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 92.00 </td> <td align="right"> 96.00 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10893297 </td> <td align="right"> 61.54 </td> <td align="right"> 16.67 </td> <td align="right"> 50.50 </td> <td align="right"> 39.19 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10897211 </td> <td align="right"> 53.85 </td> <td align="right"> 33.33 </td> <td align="right"> 32.00 </td> <td align="right"> 35.23 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10906323 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 93.00 </td> <td align="right"> 96.50 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10917095 </td> <td align="right"> 38.46 </td> <td align="right"> 0.00 </td> <td align="right"> 49.00 </td> <td align="right"> 29.31 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10918013 </td> <td align="right"> 84.62 </td> <td align="right"> 83.33 </td> <td align="right"> 97.00 </td> <td align="right"> 90.33 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10929981 </td> <td align="right"> 84.62 </td> <td align="right"> 100.00 </td> <td align="right"> 74.00 </td> <td align="right"> 85.08 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10930498 </td> <td align="right"> 92.31 </td> <td align="right"> 66.67 </td> <td align="right"> 98.00 </td> <td align="right"> 85.54 </td> <td align="right"> B </td> </tr>
+  <tr> <td align="right"> 10930840 </td> <td align="right"> 84.62 </td> <td align="right"> 50.00 </td> <td align="right"> 85.30 </td> <td align="right"> 71.98 </td> <td align="right"> C </td> </tr>
+  <tr> <td align="right"> 10931692 </td> <td align="right"> 69.23 </td> <td align="right"> 16.67 </td> <td align="right"> 37.00 </td> <td align="right"> 33.40 </td> <td align="right"> F </td> </tr>
+  <tr> <td align="right"> 10933777 </td> <td align="right"> 92.31 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 99.04 </td> <td align="right"> A </td> </tr>
+  <tr> <td align="right"> 10935291 </td> <td align="right"> 100.00 </td> <td align="right"> 100.00 </td> <td align="right"> 102.00 </td> <td align="right"> 101.00 </td> <td align="right"> A </td> </tr>
    </table>
