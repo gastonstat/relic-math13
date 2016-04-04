@@ -83,25 +83,25 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="">Normal Distritbution</a>
+    <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WPUjZUCeiLE1MhVMCpG8GFc35t2mj3fNRbZaGAPzTdg/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Probability Distritbution</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 06, &nbsp;&nbsp;<a href="">Accuracy of Percentages</a>
+    <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 06, &nbsp;&nbsp;<a href="">Sampling Distributions and CLT</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 11, &nbsp;&nbsp;<a href="">Accuracy of Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 11, &nbsp;&nbsp;<a href="">Estimating Population Mean</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 13, &nbsp;&nbsp;<a href="">Model for Measurement Error</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 13, &nbsp;&nbsp;<a href="">Estimating Proportions</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Tests of Significance</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Introduction to Statistical Tests</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="">Tests for Averages</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="">Testing the Mean</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="">Chi-Square Test</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="">Testing a Proportion</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
@@ -113,13 +113,13 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;TBD
+    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;<a href="">Correlation</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;TBD
+    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;<a href="">Regression</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;TBD
+    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;<a href="">Regression Line</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;TBD
