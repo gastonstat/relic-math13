@@ -86,7 +86,7 @@ Tentative Calendar, Spring 2016
     <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WPUjZUCeiLE1MhVMCpG8GFc35t2mj3fNRbZaGAPzTdg/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Probability Distritbution</a>
   </li>
   <li>
-    <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 06, &nbsp;&nbsp;<a href="">Sampling Distributions and CLT</a>
+    <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 06, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1hOJ_QsjbbIYxXFciK2vXLgFG407aZ64ipndUyKljmo8/pub?start=false&loop=false&delayms=3000" target="_blank">Sampling Distributions and CLT</a>
   </li>
   <li>
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 11, &nbsp;&nbsp;<a href="">Estimating Population Mean</a>
