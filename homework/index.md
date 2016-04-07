@@ -50,5 +50,10 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
       <td align="center">Mar 28</td>
       <td><a href="math13-hw07-questions.pdf">Random Variables and Binomial Distribution</a></td>
     </tr>
+    <tr>
+      <td align="center">8</td>
+      <td align="center">Apr 13</td>
+      <td><a href="math13-hw08-questions.pdf">Normal Distribution</a></td>
+    </tr>
   </tbody>
 </table>
