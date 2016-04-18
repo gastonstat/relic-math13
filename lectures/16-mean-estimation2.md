@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Esimation of Population Mean 1"
+title: "Esimation of Population Mean 2"
 ---
 
 <h4>
@@ -16,14 +16,9 @@ title: "Esimation of Population Mean 1"
 	Learning Objectives
 </h4>
 
-- Explain the meanings of:
-	- confidence level
-	- error of estimate
-	- critical value
-- Find the critical value corresponding to a confidence level
-- Compute confidence intervals for population mean when the 
-population standard deviation is known.
-- Compute the sample size to be used for estimating a population mean.
+- Learn how to find a confidence interval for _mu_ when _sigma_ is unknown
+- Properties of a Student's _t_ Distribution
+- Learn how to use the tables for the _t_-distribution
 
 
 <h4>
@@ -31,7 +26,7 @@ population standard deviation is known.
 	Reading
 </h4>
 
-Chapter 7, sections 7.1
+Chapter 7, sections 7.2
 
-- Pages 359-373
-- Problems section 7.1
+- Pages 374-387
+- Problems section 7.2

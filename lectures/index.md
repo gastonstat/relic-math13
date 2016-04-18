@@ -95,13 +95,13 @@ Tentative Calendar, Spring 2016
     <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 13, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mav1fbW42UKDoSZtqVzMh68hPLMj-zMzYzyJN4jp0RQ/pub?start=false&loop=false&delayms=3000" target="_blank">Estimating Population Mean</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Introduction to Statistical Tests</a>
+    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Confidence Intervals when _sigma_ is known</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="">Testing the Mean</a>
+    <a href="16-mean-estimation2"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="">Confidence Intervals when _sigma_ is unknown</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="">Testing a Proportion</a>
+    <i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp; Practice Test 3
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
@@ -113,19 +113,19 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;<a href="">Correlation</a>
+    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;<a href="">Testing the Mean</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;<a href="">Regression</a>
+    <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;<a href="">Testing a Proportion</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;<a href="">Regression Line</a>
+    <i class="fa-li fa fa-thumb-tack"></i> May 09, &nbsp;&nbsp;<a href="">Correlation</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;TBD
+    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;<a href="">Regression</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;TBD
+    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<a href="">Regression Line</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 18, &nbsp;&nbsp;TBD
