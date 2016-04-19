@@ -101,7 +101,7 @@ Tentative Calendar, Spring 2016
     <a href="16-mean-estimation2"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="">Confidence Intervals when _sigma_ is unknown</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="../homework/math13-practice03-questions.pdf">Practice Test 2</a>
+    <i class="fa-li fa fa-thumb-tack"></i></a> Apr 25, &nbsp;&nbsp;<a href="../homework/math13-practice03-questions.pdf">Practice Test 3</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Apr 27, &nbsp;&nbsp;<b>3rd Test</b>
