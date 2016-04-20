@@ -95,7 +95,7 @@ Tentative Calendar, Spring 2016
     <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 13, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mav1fbW42UKDoSZtqVzMh68hPLMj-zMzYzyJN4jp0RQ/pub?start=false&loop=false&delayms=3000" target="_blank">Estimating Population Mean</a>
   </li>
   <li>
-    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="">Confidence Intervals when _sigma_ is known</a>
+    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 18, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1_3QyXoxKRTRhPUKayXdZh0fKvupRKFOCW04izE-Rh3M/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when _sigma_ is known</a>
   </li>
   <li>
     <a href="16-mean-estimation2"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 20, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15SQRKW-iB-Mu479hsS73xAL5ewzzkFHzpTzjt9XR7J4/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when _sigma_ is unknown</a>

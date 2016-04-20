@@ -8,7 +8,7 @@ title: "Esimation of Population Mean 1"
 	Slides
 </h4>
 
-<a href="https://docs.google.com/presentation/d/1mav1fbW42UKDoSZtqVzMh68hPLMj-zMzYzyJN4jp0RQ/pub?start=false&loop=false&delayms=3000" target="_blank">Esimating Population Mean</a>
+<a href="https://docs.google.com/presentation/d/1_3QyXoxKRTRhPUKayXdZh0fKvupRKFOCW04izE-Rh3M/pub?start=false&loop=false&delayms=3000" target="_blank">Esimating Population Mean</a>
 
 
 <h4>
