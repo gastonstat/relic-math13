@@ -79,7 +79,7 @@ Tentative Calendar, Spring 2016
 </ul>
 
 
-### Estimation and Tests of Significance
+### Estimation
 
 <ul class="fa-ul">
   <li>
@@ -109,11 +109,11 @@ Tentative Calendar, Spring 2016
 </ul>
 
 
-### Correlation and Regression
+### Tests of Significance, Correlation and Regression
 
 <ul class="fa-ul">
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;<a href="">Testing the Mean</a>
+    <a href="17-hypothesis-test"><i class="fa-li fa fa-thumb-tack"></i></a> May 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/11pegEt3GgGtL3EWMine8Es0T_hrptiC_z56g85Pye5g/pub?start=false&loop=false&delayms=3000" target="_blank">Introduction to Hypothesis Tests</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 04, &nbsp;&nbsp;<a href="">Testing a Proportion</a>
