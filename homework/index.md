@@ -60,5 +60,10 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
       <td align="center">Apr 20</td>
       <td><a href="math13-hw09-questions.pdf">Confidence Intervals</a></td>
     </tr>
+    <tr>
+      <td align="center">10</td>
+      <td align="center">May 11</td>
+      <td><a href="math13-hw10-questions.pdf">Testing the Mean</a></td>
+    </tr>
   </tbody>
 </table>
