@@ -122,10 +122,10 @@ Tentative Calendar, Spring 2016
     <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> May 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Us875ne5g_qBxRsw_08BbuRjefC2H8g9pBpelA0qUmY/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 11, &nbsp;&nbsp;<a href="">Regression</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> May 11, &nbsp;&nbsp;<a href="">Regression</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<a href="">Regression Line</a>
+    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression Line</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 18, &nbsp;&nbsp;TBD
