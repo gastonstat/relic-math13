@@ -128,7 +128,7 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression Line</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> May 18, &nbsp;&nbsp;TBD
+    <i class="fa-li fa fa-thumb-tack"></i></a> May 18, &nbsp;&nbsp;<a href="../homework/math13-practice04-questions.pdf">Practice Test 4</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> May 23, &nbsp;&nbsp;<b>Final test</b>
