@@ -11,7 +11,7 @@ Tentative Calendar, Spring 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1INcVjbNz9AvNkQTqOG-zXSk45hEdpTHRdMuRt5hYwDA/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>
+    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 25, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/198SOU2LJlhNnaZKdychSRRmJ5qqHTc4ANHG5KH_sWjo/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>
   </li>
   <li>
     <a href="02-data-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 27, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">Data and Variables</a>
