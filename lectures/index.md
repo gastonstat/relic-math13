@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 ---
 
-Tentative Calendar, Spring 2016
+Tentative Calendar, Fall 2016
 
 <hr>
 
