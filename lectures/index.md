@@ -73,7 +73,7 @@ Tentative Calendar, Spring 2016
   </li>
 -->
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i></a> Oct 17, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Oct 17, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Oct 19, &nbsp;&nbsp;<b>2nd Test</b>
@@ -103,7 +103,7 @@ Tentative Calendar, Spring 2016
     <a href="16-mean-estimation2"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15SQRKW-iB-Mu479hsS73xAL5ewzzkFHzpTzjt9XR7J4/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when _sigma_ is unknown</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i></a> Nov 14, &nbsp;&nbsp;<a href="../homework/math13-practice03-questions.pdf">Practice Test 3</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Nov 14, &nbsp;&nbsp;<a href="../homework/math13-practice03-questions.pdf">Practice Test 3</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Nov 16, &nbsp;&nbsp;<b>3rd Test</b>
