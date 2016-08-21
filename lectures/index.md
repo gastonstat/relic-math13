@@ -130,7 +130,7 @@ Tentative Calendar, Spring 2016
     <i class="fa-li fa fa-thumb-tack"></i> Dec 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression Line</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i></a> Dec 07, &nbsp;&nbsp;<a href="../homework/math13-practice04-questions.pdf">Practice Test 4</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Dec 07, &nbsp;&nbsp;<a href="../homework/math13-practice04-questions.pdf">Practice Test 4</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Dec 12, &nbsp;&nbsp;<b>Final test</b>
