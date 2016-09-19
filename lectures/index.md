@@ -35,8 +35,8 @@ Tentative Calendar, Fall 2016
     <a href="07-more-charts"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Sep 19, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>, and 
-    <a href="../homework/math13-cheat-sheet-test1.pdf">Cheat Sheet Test 1</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Sep 19, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>, <a href="../homework/math13-practice01-solutions.pdf">Solutions PT 1</a>,and 
+    <a href="../homework/math13-cheat-sheet-test1.pdf">Cheat Sheet 1</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Sep 21, &nbsp;&nbsp;<b>1st Test</b>
