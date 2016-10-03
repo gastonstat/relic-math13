@@ -54,10 +54,10 @@ Tentative Calendar, Fall 2016
     <a href="09-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Xxy6ZoVBN9duY5iy9j-4yXKywDbK4fRWo5wadyPsOjk/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 2</a>
   </li>
   <li>
-    <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 03, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
+    <i class="fa-li fa fa-thumb-tack"></i></a> Oct 03, &nbsp;&nbsp;Probability (cont'd)
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Oct 05, &nbsp;&nbsp;Review Chapter 4
+    <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
   </li>
   <li>
     <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
