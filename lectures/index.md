@@ -74,7 +74,8 @@ Tentative Calendar, Fall 2016
   </li>
 -->
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Oct 17, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Oct 17, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>, and 
+    <a href="../homework/math13-cheat-sheet-test2.pdf">Cheat Sheet 2</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Oct 19, &nbsp;&nbsp;<b>2nd Test</b>
