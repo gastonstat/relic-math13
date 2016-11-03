@@ -52,17 +52,17 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
     </tr>
     <tr>
       <td align="center">8</td>
-      <td align="center">TBA</td>
+      <td align="center">Nov 02</td>
       <td><a href="math13-hw08-questions.pdf">Normal Distribution</a></td>
     </tr>
     <tr>
       <td align="center">9</td>
-      <td align="center">TBA</td>
+      <td align="center">Nov 09</td>
       <td><a href="math13-hw09-questions.pdf">Confidence Intervals</a></td>
     </tr>
     <tr>
       <td align="center">10</td>
-      <td align="center">TBA</td>
+      <td align="center">Nov 16</td>
       <td><a href="math13-hw10-questions.pdf">Testing the Mean</a></td>
     </tr>
   </tbody>
