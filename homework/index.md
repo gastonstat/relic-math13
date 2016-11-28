@@ -62,7 +62,7 @@ HW assignments are to be turned in during lecture (<a href="../syllabus#hw-polic
     </tr>
     <tr>
       <td align="center">10</td>
-      <td align="center">TBA</td>
+      <td align="center">Nov-30</td>
       <td><a href="math13-hw10-questions.pdf">Testing the Mean</a></td>
     </tr>
   </tbody>
