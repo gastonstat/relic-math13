@@ -75,61 +75,59 @@ Tentative Calendar, Spring 2017
 </ul>
 
 
-### Estimation
+### Estimation and Hypothesis Tests
 
 <ul class="fa-ul">
   <li>
-    <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1hOJ_QsjbbIYxXFciK2vXLgFG407aZ64ipndUyKljmo8/pub?start=false&loop=false&delayms=3000" target="_blank">Central Limit Theorem</a>
-  </li>
-<!--  
-<li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
+    <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1hOJ_QsjbbIYxXFciK2vXLgFG407aZ64ipndUyKljmo8/pub?start=false&loop=false&delayms=3000" target="_blank">Central Limit Theorem</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
-  </li>
--->
-  <li>
-    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mav1fbW42UKDoSZtqVzMh68hPLMj-zMzYzyJN4jp0RQ/pub?start=false&loop=false&delayms=3000" target="_blank">Estimating Population Mean</a>
+    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 04, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mav1fbW42UKDoSZtqVzMh68hPLMj-zMzYzyJN4jp0RQ/pub?start=false&loop=false&delayms=3000" target="_blank">Estimating Population Mean</a>
   </li>
   <li>
-    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1_3QyXoxKRTRhPUKayXdZh0fKvupRKFOCW04izE-Rh3M/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when _sigma_ is known</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Apr 11, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
   <li>
-    <a href="16-mean-estimation2"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15SQRKW-iB-Mu479hsS73xAL5ewzzkFHzpTzjt9XR7J4/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when _sigma_ is unknown</a>
+    <i class="fa-li fa fa-thumb-tack"></i> Apr 11, &nbsp;&nbsp;<em>Spring Break</em>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Nov 14, &nbsp;&nbsp;<a href="../homework/math13-practice03-questions.pdf">Practice Test 3</a>
+    <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 19, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1_3QyXoxKRTRhPUKayXdZh0fKvupRKFOCW04izE-Rh3M/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when sigma is known</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Nov 16, &nbsp;&nbsp;<b>3rd Test</b>
+    <a href="16-mean-estimation2"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 19, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/15SQRKW-iB-Mu479hsS73xAL5ewzzkFHzpTzjt9XR7J4/pub?start=false&loop=false&delayms=3000" target="_blank">Confidence Intervals when sigma is unknown</a>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> Apr 26, &nbsp;&nbsp;<a href="../homework/math13-practice03-questions.pdf">Practice Test 3</a>
+  </li>
+  <li>
+    <a href="17-hypothesis-test"><i class="fa-li fa fa-thumb-tack"></i></a> Apr 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/11pegEt3GgGtL3EWMine8Es0T_hrptiC_z56g85Pye5g/pub?start=false&loop=false&delayms=3000" target="_blank">Introduction to Hypothesis Tests</a>
+  </li>
+  <li>
+    <a href="18-testing-mean"><i class="fa-li fa fa-thumb-tack"></i></a> May 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/12yS0nt2BLZ9nwYWBAMpFM589oteflse3HbP-oKsagnk/pub?start=false&loop=false&delayms=3000" target="_blank">Testing the Mean</a>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> May 02, &nbsp;&nbsp;<b>3rd Test</b>
   </li>
 </ul>
 
 
-### Tests of Significance, Correlation and Regression
+### Correlation and Regression
 
 <ul class="fa-ul">
   <li>
-    <a href="17-hypothesis-test"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 21, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/11pegEt3GgGtL3EWMine8Es0T_hrptiC_z56g85Pye5g/pub?start=false&loop=false&delayms=3000" target="_blank">Introduction to Hypothesis Tests</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> May 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Us875ne5g_qBxRsw_08BbuRjefC2H8g9pBpelA0qUmY/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
   </li>
   <li>
-    <a href="18-testing-mean"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 23, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/12yS0nt2BLZ9nwYWBAMpFM589oteflse3HbP-oKsagnk/pub?start=false&loop=false&delayms=3000" target="_blank">Testing the Mean</a>
+    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> May 09, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Nov 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Us875ne5g_qBxRsw_08BbuRjefC2H8g9pBpelA0qUmY/pub?start=false&loop=false&delayms=3000" target="_blank">Correlation</a>
+    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression Line</a>
   </li>
   <li>
-    <a href=""><i class="fa-li fa fa-thumb-tack"></i></a> Nov 30, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression</a>
+    <i class="fa-li fa fa-thumb-tack"></i> May 16, &nbsp;&nbsp;<a href="../homework/math13-practice04-questions.pdf">Practice Test 4</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Dec 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1qtRsWWtAEBuikep3jU01EaQ3-n_OVRt2zSqXrDjk5yA/pub?start=false&loop=false&delayms=3000" target="_blank">Regression Line</a>
-  </li>
-  <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Dec 07, &nbsp;&nbsp;<a href="../homework/math13-practice04-questions.pdf">Practice Test 4</a>
-  </li>
-  <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Dec 12, &nbsp;&nbsp;<b>Final test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> May 23, &nbsp;&nbsp;<b>Final test</b>
   </li>
 </ul>
 
