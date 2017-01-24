@@ -59,12 +59,10 @@ The final letter-grade scale is:
 ### <a name="attendance-policy"></a> Attendance Policy
 
 - Your attendance is an important part of your success in this course. Students who regularly miss class may therefore lose participation percentage points.
-- You are entitled to 3 non-consecutive absences without downgrading your participation.
+- You are entitled to 2 non-consecutive absences without downgrading your participation.
 - If you never miss lecture, you'll get extra-credit.
-- Students who miss more than 20% of classes will lose all participation points.
 - You may be dropped if you are absent for more than one consecutive week of class without contacting me to explain your absences.
 - If you are not present when I call roll, you will get an absence.
-- Those who perform poorly on an exam, then fail to take the next one, w​ill​ be dropped.
 - While attending class, please help to maintain a decent learning environment.
 - No laptops, tablets, cell phones, or other similar electronic devices are allowed during lecture. 
 - Please be considerate of others; t​urn o​ff​ your cell phones and put them away.
@@ -77,7 +75,7 @@ The final letter-grade scale is:
 - You should only use email as a tool to set up a one-on-one meeting with me if Office hours conflict with your schedule.
 - Use the subject line __Meeting Request__.
 - Your message should include at least two times when you would like to meet and a brief (one-two sentence) description of the reason for the meeting.
-- Email sent for any other reason will NOT be considered or acknowledge.
+- I am not constantly checking my email: I may not reply on time.
 - If you have an emergency, talk to me later during class or office hours.
 - I strongly encourage you to ask questions about the syllabus, covered material, and assignments during class time or lab discussions. 
 - Our conversations should take place in person rather than via email, thus allowing us to get to know each other better and fostering a more collegial learning atmosphere.
