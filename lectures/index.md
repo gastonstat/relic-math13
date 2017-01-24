@@ -32,7 +32,7 @@ Tentative Calendar, Spring 2017
     <a href="07-more-charts"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Feb 14, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>, <a href="../homework/math13-practice01-solutions.pdf">Solutions PT 1</a>,and 
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 14, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>, <a href="../homework/math13-practice01-solutions.pdf">Solutions PT 1</a>, and 
     <a href="../homework/math13-cheat-sheet-test1.pdf">Cheat Sheet 1</a>
   </li>
   <li>
@@ -45,37 +45,29 @@ Tentative Calendar, Spring 2017
 
 <ul class="fa-ul">
   <li>
-    <a href="08-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1cJCPgszna-QLD6o2ab6c9SUkFFEt0bJljy5xVIkPfA0/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 1</a>
+    <a href="08-probability-rules1"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1cJCPgszna-QLD6o2ab6c9SUkFFEt0bJljy5xVIkPfA0/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 1</a>
   </li>
   <li>
-    <a href="09-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Xxy6ZoVBN9duY5iy9j-4yXKywDbK4fRWo5wadyPsOjk/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 2</a>
+    <a href="09-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Xxy6ZoVBN9duY5iy9j-4yXKywDbK4fRWo5wadyPsOjk/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 2</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Oct 03, &nbsp;&nbsp;Probability (cont'd)
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 07, &nbsp;&nbsp;Probability (cont'd)
   </li>
   <li>
-    <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 05, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
+    <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
   </li>
   <li>
-    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 10, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
+    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
   </li>
   <li>
-    <a href="12-binomial-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 12, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1l269oLR23ZkZe2allThPMn2PMj6Q9MVp7j8oL2uiVuI/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
-  </li>
-<!--  
-<li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
+    <a href="12-binomial-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1l269oLR23ZkZe2allThPMn2PMj6Q9MVp7j8oL2uiVuI/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
-  </li>
--->
-  <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Oct 17, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>, and 
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>, and 
     <a href="../homework/math13-cheat-sheet-test2.pdf">Cheat Sheet 2</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Oct 19, &nbsp;&nbsp;<b>2nd Test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 29, &nbsp;&nbsp;<b>2nd Test</b>
   </li>
 </ul>
 
@@ -92,6 +84,14 @@ Tentative Calendar, Spring 2017
   <li>
     <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1hOJ_QsjbbIYxXFciK2vXLgFG407aZ64ipndUyKljmo8/pub?start=false&loop=false&delayms=3000" target="_blank">Central Limit Theorem</a>
   </li>
+<!--  
+<li>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<em>Spring Break</em>
+  </li>
+  <li>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 23, &nbsp;&nbsp;<em>Spring Break</em>
+  </li>
+-->
   <li>
     <a href="15-mean-estimation"><i class="fa-li fa fa-thumb-tack"></i></a> Nov 02, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mav1fbW42UKDoSZtqVzMh68hPLMj-zMzYzyJN4jp0RQ/pub?start=false&loop=false&delayms=3000" target="_blank">Estimating Population Mean</a>
   </li>
