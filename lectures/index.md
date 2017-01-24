@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 ---
 
-Tentative Calendar, Fall 2016
+Tentative Calendar, Spring 2017
 
 <hr>
 
@@ -11,35 +11,32 @@ Tentative Calendar, Fall 2016
 
 <ul class="fa-ul">
   <li>
-    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Aug 22, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/198SOU2LJlhNnaZKdychSRRmJ5qqHTc4ANHG5KH_sWjo/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>
+    <a href="01-course-introduction"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 24, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/198SOU2LJlhNnaZKdychSRRmJ5qqHTc4ANHG5KH_sWjo/pub?start=false&loop=false&delayms=3000" target="_blank">Course Introduction</a>
   </li>
   <li>
-    <a href="02-data-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Aug 24, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">Data and Variables</a>
+    <a href="02-data-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 24, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Kb4kzobkNyBgoy5cxGs7zQ_6fm8tGpZ_sBvw_ygT_48/pub?start=false&loop=false&delayms=3000" target="_blank">Data and Variables</a>
   </li>
   <li>
-    <a href="03-frequency-tables"><i class="fa-li fa fa-thumb-tack"></i></a> Aug 29, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1u-DBE9BbnGCcujiJ3Q-03VkMqQywybAPzb5uLIsEl8k/pub?start=false&loop=false&delayms=3000" target="_blank">Frequency Tables and Bar-charts</a>
+    <a href="03-frequency-tables"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1u-DBE9BbnGCcujiJ3Q-03VkMqQywybAPzb5uLIsEl8k/pub?start=false&loop=false&delayms=3000" target="_blank">Frequency Tables and Bar-charts</a>
   </li>
   <li>
-    <a href="04-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Aug 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1fM4k0x-glH6deRNO8ekrQjRqPQdroMfap67NB6MfYPo/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
+    <a href="04-histograms"><i class="fa-li fa fa-thumb-tack"></i></a> Jan 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1fM4k0x-glH6deRNO8ekrQjRqPQdroMfap67NB6MfYPo/pub?start=false&loop=false&delayms=3000" target="_blank">Histograms</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Sep 05, &nbsp;&nbsp;<em>Holiday</em>
+    <a href="05-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1QCrikMs63EhU3TALiDXheaMKyAoqEGhz9z6oCxpIi2k/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
   </li>
   <li>
-    <a href="05-measures-center"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1QCrikMs63EhU3TALiDXheaMKyAoqEGhz9z6oCxpIi2k/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Center</a>
+    <a href="06-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1wZa-ugbyaCHA-4rAVLxPONuMd9gJc3Ithxogt8Lv-zY/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
   </li>
   <li>
-    <a href="06-measures-spread"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 12, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1wZa-ugbyaCHA-4rAVLxPONuMd9gJc3Ithxogt8Lv-zY/pub?start=false&loop=false&delayms=3000" target="_blank">Measures of Spread</a>
+    <a href="07-more-charts"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
   </li>
   <li>
-    <a href="07-more-charts"><i class="fa-li fa fa-thumb-tack"></i></a> Sep 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Rc0FwkYaWzLL4nzXuplnsArxBDs5TK6qktJ4C3eRxKc/pub?start=false&loop=false&delayms=3000" target="_blank">More Charts and Graphics</a>
-  </li>
-  <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Sep 19, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>, <a href="../homework/math13-practice01-solutions.pdf">Solutions PT 1</a>,and 
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 14, &nbsp;&nbsp;<a href="../homework/math13-practice01-questions.pdf">Practice Test 1</a>, <a href="../homework/math13-practice01-solutions.pdf">Solutions PT 1</a>,and 
     <a href="../homework/math13-cheat-sheet-test1.pdf">Cheat Sheet 1</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Sep 21, &nbsp;&nbsp;<b>1st Test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> Feb 21, &nbsp;&nbsp;<b>1st Test</b>
   </li>
 </ul>
 
