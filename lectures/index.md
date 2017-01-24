@@ -51,23 +51,26 @@ Tentative Calendar, Spring 2017
     <a href="09-probability-rules2"><i class="fa-li fa fa-thumb-tack"></i></a> Feb 28, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1Xxy6ZoVBN9duY5iy9j-4yXKywDbK4fRWo5wadyPsOjk/pub?start=false&loop=false&delayms=3000" target="_blank">Probability Rules 2</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 07, &nbsp;&nbsp;Probability (cont'd)
-  </li>
-  <li>
     <a href="10-counting-principles"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1kgZsJFMibB5rRx1sVqJTy6efd6dgrfg1S89dAZ-wPeI/pub?start=false&loop=false&delayms=3000" target="_blank">Trees and Counting Principles</a>
   </li>
   <li>
-    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
+    <a href="11-random-variables"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 07, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1mXkzTzr80sOfxs45QEFgywjUMw8FSHvAv8KNYO0X9Tc/pub?start=false&loop=false&delayms=3000" target="_blank">Random Variables</a>
   </li>
   <li>
     <a href="12-binomial-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1l269oLR23ZkZe2allThPMn2PMj6Q9MVp7j8oL2uiVuI/pub?start=false&loop=false&delayms=3000" target="_blank">Binomial Distribution</a>
+  </li>
+  <li>
+    <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 14, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WPUjZUCeiLE1MhVMCpG8GFc35t2mj3fNRbZaGAPzTdg/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Probability Distritbution</a>
+  </li>
+  <li>
+    <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Mar 21, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WPUjZUCeiLE1MhVMCpG8GFc35t2mj3fNRbZaGAPzTdg/pub?start=false&loop=false&delayms=3000" target="_blank">More Normal Distribution</a>
   </li>
   <li>
     <i class="fa-li fa fa-thumb-tack"></i> Mar 21, &nbsp;&nbsp;<a href="../homework/math13-practice02-questions.pdf">Practice Test 2</a>, and 
     <a href="../homework/math13-cheat-sheet-test2.pdf">Cheat Sheet 2</a>
   </li>
   <li>
-    <i class="fa-li fa fa-thumb-tack"></i> Mar 29, &nbsp;&nbsp;<b>2nd Test</b>
+    <i class="fa-li fa fa-thumb-tack"></i> Mar 28, &nbsp;&nbsp;<b>2nd Test</b>
   </li>
 </ul>
 
@@ -75,12 +78,6 @@ Tentative Calendar, Spring 2017
 ### Estimation
 
 <ul class="fa-ul">
-  <li>
-    <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 24, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WPUjZUCeiLE1MhVMCpG8GFc35t2mj3fNRbZaGAPzTdg/pub?start=false&loop=false&delayms=3000" target="_blank">Normal Probability Distritbution</a>
-  </li>
-  <li>
-    <a href="13-normal-distribution"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 26, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1WPUjZUCeiLE1MhVMCpG8GFc35t2mj3fNRbZaGAPzTdg/pub?start=false&loop=false&delayms=3000" target="_blank">More Normal Distribution</a>
-  </li>
   <li>
     <a href="14-sampling-distributions"><i class="fa-li fa fa-thumb-tack"></i></a> Oct 31, &nbsp;&nbsp;<a href="https://docs.google.com/presentation/d/1hOJ_QsjbbIYxXFciK2vXLgFG407aZ64ipndUyKljmo8/pub?start=false&loop=false&delayms=3000" target="_blank">Central Limit Theorem</a>
   </li>
