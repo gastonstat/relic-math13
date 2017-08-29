@@ -30,7 +30,7 @@ You must have regular access to the web outside of class for reading the online 
 
 - You will be using one of the Statistics courses from the Open Learning Initiative (OLI).
 - This interactive text has a cost of $20, available at: [https://oli.cmu.edu/](https://oli.cmu.edu/)
-- You can find the instructions for accessing the OLI text [here](oli).
+- You can find the instructions for accessing the OLI text [here](http://gastonsanchez.com/math13/oli).
 - Your computer will need to be correctly configured to use the OLI materials.
 - The interactive text contains questions that you answer and check for correctness.
 - The text, however, is not fully supported on computer tablets or smartphones.
