@@ -106,7 +106,7 @@ Your final grade will be determined according to the following scale:
 ### Extra Credit
 
 - Students can receive 2 extra credit points by completing 20 hours of free math tutoring at the Learning Resource Center in Room 112 on the 1st floor.
-- Complete the attached [Tutoring Record sheet](LRC-Time-Sheet.pdf) by having the tutor sign the sheet after each tutoring appointment.
+- Complete the attached [Tutoring Record sheet](../public/LRC-Time-Sheet.pdf) by having the tutor sign the sheet after each tutoring appointment.
 - Appointments are available Mon-Thu, 9:00 a.m.-8 p.m; Fri, 9:00 a.m.-4 p.m; Sat, 10:00 a.m.– 4:00 p.m.
 
 
