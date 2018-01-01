@@ -155,6 +155,14 @@ Do your own work. Collaborating on homework is fine—but copying is not, nor is
 Students with learning and/or physical disabilities can register in the PSSD office on the 2nd floor.  You may be entitled to extra time for test-taking and other services.  You can register any time during the semester, but entitlements are not retroactive.
 
 
+### Student Learning Outcomes
+
+Upon completion of this course, students will:
+1. Find and evaluate statistical information in discussions and presentations
+2. Use statistical procedures and standard techniques in data gathering, summary, and presentations.
+3. Interpret data sampling and inferential statistics (hypothesis testing and confidence intervals.)
+4. Describe the rules of probability and the role of probability distributions such as the Binomial, Normal, and various other models.
+
 
 ### Justification for the Course
 
