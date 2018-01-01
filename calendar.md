@@ -6,7 +6,7 @@ title: Calendar
 Tentative Calendar: Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzD1JW1I0jfhOEQ-wIJqiiq-36mUpISC5ZbcnqPmsu3Fx0Y264eVte_pSm9hk-qTz3L3hjhNp7Mdjb/pubhtml" target="_blank">here</a>
 if the calendar below does not display properly. <br>
 
-Note: Checkpoints are due the day they apear on the calendar (before midnight).
+Note: Checkpoints are due before the next day of classes from the day displayed on the calendar.
 
 -----
 
@@ -23,7 +23,7 @@ Note: Checkpoints are due the day they apear on the calendar (before midnight).
     <tr>
       <td>1</td>
       <td>01/23</td>
-      <td>Introduction; register to OLI<br>
+      <td>Introduction<br>Register to OLI<br>
           get Activity Packet Math 13</td>
       <td>Read syllabus</td>
     </tr>
@@ -56,40 +56,65 @@ Note: Checkpoints are due the day they apear on the calendar (before midnight).
     <tr>
       <td>5</td>
       <td>02/06</td>
-      <td>2.1.4 end<br>assess proj 2.1A<br>2.1.5 begin</td>
-      <td>OLI mod 7, 31-35</td>
+      <td>2.2.3 shape & measures of center</td>
+      <td><b>proj 2.1B</b><br>
+          <b>OLI check mod 8</b></td>
     </tr>
     <tr>
       <td>6</td>
       <td>02/08</td>
-      <td>2.1.5 end<br>2.2.1 begin</td>
-      <td><b>OLI check mod 7</b></td>
+      <td>2.3.1 5-num summary<br>variability around the mean</td>
+      <td>complete 2.3.2<br>OLI mod 10: 47-51</td>
     </tr>
     <tr>
       <td>7</td>
       <td>02/13</td>
-      <td>start proj 2.1B, review check mod 7<br>
-          2.2.1 end, 2.2.2</td>
-      <td>OLI mod 8, 36-39<br>finish proj 2.1B</td>
+      <td>2.3.3 variability around the mean<br>
+          3.1.1 intro to scatterplots</td>
+      <td>complete 2.3.4<br>end mod 2 activity<br>
+          <b>OLI check mod 10</b></td>
     </tr>
     <tr>
       <td>8</td>
       <td>02/15</td>
-      <td>assess 2.1B<br>2.2.3</td>
-      <td><b>OLI check mod 8</b></td>
+      <td>3.1.3 direction, form, strength<br>
+          3.1.4 intro to correlation "r"<br>
+          3.1.5 properties of "r"</td>
+      <td>OLI mod 11: 52-65<br>
+      	  <b>OLI check unit 3</b></td>
     </tr>
     <tr>
       <td>9</td>
       <td>02/20</td>
-      <td>review check mod 8<br>2.3.1, 2.3.2</td>
-      <td>OLI mod 9, 40-44</td>
+      <td>3.2.1 intro to linear regression<br>
+          3.2.2 least squares regression<br>
+          3.2.3 equation of a line<br>
+          3.2.4 interpreting reg line</td>
+      <td>OLI mod 12: 66-71<br>
+          <b>OLI check mod 11</b>
+          <b>OLI check mod 12</b>
+          <b>OLI check unit 4</b></td>
     </tr>
     <tr>
       <td>10</td>
       <td>02/22</td>
-      <td>2.3.2 end, 2.3.3<br>2.3.4</td>
-      <td><b>OLI check mod 9</b></td>
+      <td><b>Exam 1</b></td>
+      <td><em>none</em></td>
     </tr>
+  </tbody>
+ </table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Num</th>
+      <th align="left">Date</th>
+      <th align="left">In-class</th>
+      <th align="left">HW</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>11</td>
       <td>02/27</td>
