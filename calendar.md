@@ -231,6 +231,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <th align="left">In-class</th>
       <th align="left">HW</th>
     </tr>
+  </thead>
     <tr>
       <td>28</td>
       <td>04/24</td>
