@@ -183,6 +183,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>04/03</td>
       <td><em>Spring break</em></td>
       <td><em>none</em></td>
+    </tr>
     <tr>
       <td>22</td>
       <td>04/05</td>
@@ -224,6 +225,12 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
 
 <table>
   <thead>
+    <tr>
+      <th align="left">Num</th>
+      <th align="left">Date</th>
+      <th align="left">In-class</th>
+      <th align="left">HW</th>
+    </tr>
     <tr>
       <td>28</td>
       <td>04/24</td>
