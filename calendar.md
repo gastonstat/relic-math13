@@ -41,18 +41,17 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>4</td>
       <td>02/01</td>
-      <td>review check mod 7; discuss proj 2.1B<br>
+      <td>review check mod 7<br>
+      	  discuss proj 2.1B<br>
           2.2.1 mean & median</td>
-      <td>2.2.2 means as balancing points<br>
+      <td>complete 2.2.2<br>
           OLI mod 8: 36-39<br>
           <b>project 2.1A</b></td>
     </tr>
-
-
     <tr>
       <td>5</td>
       <td>02/06</td>
-      <td>2.2.3 shape & measures of center</td>
+      <td>2.2.3 shapes & centers</td>
       <td><b>proj 2.1B</b><br>
           <b>OLI check mod 8</b></td>
     </tr>
@@ -88,7 +87,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
           3.2.3 equation of a line<br>
           3.2.4 interpreting reg line</td>
       <td>OLI mod 12: 66-71<br>
-          <b>OLI check mod 12</b>
+          <b>OLI check mod 12</b><br>
           <b>OLI check unit 4</b></td>
     </tr>
     <tr>
@@ -175,7 +174,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>03/27</td>
       <td>7.1.1 Sample proportions</td>
       <td>OLI mod 18: 122-124<br>
-      	  <b>OLI check mod 17</b>
+      	  <b>OLI check mod 17</b><br>
       	  <b>OLI check unit 7</b></td>
     </tr>
     <tr>
@@ -225,7 +224,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>26</td>
       <td>04/19</td>
       <td><b>Exam 2</b></td>
-      <td>finish proj 3.2</td>
+      <td><em>none</em></td>
     </tr>
   </tbody>
  </table>
@@ -306,4 +305,3 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
  </table>
 
 
------
