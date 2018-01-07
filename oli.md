@@ -16,7 +16,7 @@ title: OLI
 
 5. Select the "I Agree" or "I Disagree" radio button and then click "Submit" from the consent form appearing on the next page.
 
-6. You will next be taken to the "My Courses" page again. In the blue module,Academic Courses, enter m13-f17 in the text box appearing to the right of "Register for a new course."
+6. You will next be taken to the "My Courses" page again. In the blue module, Academic Courses, enter m13-s18 in the text box appearing to the right of "Register for a new course."
 
 7. Click "Go."
 
