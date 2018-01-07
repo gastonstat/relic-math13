@@ -34,7 +34,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>3</td>
       <td>01/30</td>
       <td>2.1.4 histograms<br>2.1.5 more histograms</td>
-      <td>complete 2.1.4 and 2.1.5<br>
+      <td>complete 2.1.4 & 2.1.5<br>
           OLI mod 7: 31-35<br>
           <b>OLI check mod 7</b></td>
     </tr>
@@ -58,7 +58,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>6</td>
       <td>02/08</td>
-      <td>2.3.1 5-num summary<br>variability around the mean</td>
+      <td>2.3.1 5-number summary<br>variability around the mean</td>
       <td>complete 2.3.2<br>OLI mod 10: 47-51</td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>10</td>
       <td>02/22</td>
-      <td><b>Exam 1</b></td>
+      <td><b>Exam 1: Th Feb-22</b></td>
       <td><em>none</em></td>
     </tr>
   </tbody>
@@ -115,7 +115,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>11</td>
       <td>02/27</td>
-      <td>5.1.1 categorical data<br>5.1.2 2 way table</td>
+      <td>5.1.1 categorical data<br>5.1.2 2-way table</td>
       <td>OLI mod 15: 88-92</td>
     </tr>
     <tr>
@@ -203,27 +203,15 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>23</td>
       <td>04/10</td>
-      <td>start proj 3.1;<br>review check mod 11<br>
-      	  3.2.2; 3.2.3 begin</td>
-      <td>OLI mod 12, 66-67<br>finish proj 3.1</td>
+      <td>7.2.1 Confidence intervals<br>
+      	  7.2.2 Sampling distributions</td>
+      <td><b>OLI check mod 20</b>
+      	  <b>OLI check unit 8</b></td>
     </tr>
     <tr>
       <td>24</td>
       <td>04/12</td>
-      <td>asses proj 3.1<br>3.2.3 end; 3.2.4 begin</td>
-      <td>OLI mod 12, 68-71<br>skip mod 13</td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>04/17</td>
-      <td>3.2.4 end; 3.2.5<br>
-          3.2.7; 3.2.8<br>exam review</td>
-      <td><b>OLI check mod 12</b><br><b>OLI check unit 4</b></td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>04/19</td>
-      <td><b>Exam 2</b></td>
+      <td><b>Exam 2: Th Apr-12</b></td>
       <td><em>none</em></td>
     </tr>
   </tbody>
@@ -243,57 +231,84 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
   </thead>
   <tbody>
     <tr>
+      <td>25</td>
+      <td>04/17</td>
+      <td>8.1.1 C.I. for props<br>
+          8.1.2 Making C.I.</td>
+      <td>OLI mod 21: 141-145<br>
+      	  <b>OLI check mod 21</b></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>04/19</td>
+      <td>8.2.1 Testing a hypothesis<br>
+          8.2.2 Hypothesis Testing</td>
+      <td>OLI mod 22: 146-152<br>
+      	  <b>OLI check mod 22</b></td>
+    </tr>
+    <tr>
       <td>27</td>
       <td>04/24</td>
-      <td>assess proj 3.2<br>5.1.0; 5.1.1</td>
-      <td>OLI mod 15, 88-90</td>
+      <td>8.3.1 H.T. for props<br>
+          8.3.2 H.T. for props</td>
+      <td>OLI mod 23: 154-158<br>
+      	  <b>OLI check mod 23</b><br>
+      	  <b>OLI check unit 9</b></td>
     </tr>
     <tr>
       <td>28</td>
       <td>04/26</td>
-      <td>5.1.2; 5.1.3</td>
-      <td>OLI mod 15, 91-92</td>
+      <td>9.1.1 Sampling distr 2-props<br>
+          9.1.2 Sampling distr 2-props</td>
+      <td>OLI mod 24: 160-166<br>
+          <b>OLI check 24</b></td>
     </tr>
     <tr>
       <td>29</td>
       <td>05/01</td>
-      <td>start proj 5.1; 5.1.5<br>
-          start proj 5.2</td>
-      <td>OLI mod 15, 93<br>finish proj 5.1 and 5.2</td>
+      <td>9.2.1 C.I. for 2-props<br>
+          9.2.2 C.I. for 2-props</td>
+      <td>OLI mod 25: 168-171<br>
+      	  <b>OLI check mod 25</b></td>
     </tr>
     <tr>
       <td>30</td>
       <td>05/03</td>
-      <td>assess proj 5.1 and 5.2<br>
-          5.1.6</td>
-      <td><em>none</em></td>
+      <td>9.3.1 Test for 2-props<br>
+          9.3.2 Test for 2-props</td>
+      <td>OLI mod 26: 173-180<br>
+          <b>OLI check mod 26</b>
+          <b>OLI check unit 10</b></td>
     </tr>
     <tr>
       <td>31</td>
       <td>05/08</td>
-      <td>start proj 5.1.3<br>1.1.1; 1.2.1 begin</td>
-      <td>finish proj 5.3<br>OLI mod 15, 94-95<br>
-          <b>OLI check mod 15</b></td>
+      <td>10.1.1 Sampling distr means<br>
+          10.1.2 CLT for menas</td>
+      <td>OLI mod 27: 182-188<br>
+          <b>OLI check mod 27</b></td>
     </tr>
     <tr>
       <td>32</td>
       <td>05/10</td>
-      <td>asses proj 5.3<br>1.2.1 end; 1.2.2</td>
-      <td>OLI mod 4, 10-16<br>
-          <b>OLI check mod 4</b></td>
+      <td>10.2.1 t-distribution<br>
+          10.2.2 C.I. for means</td>
+      <td>OLI mod 28: 190-193<br>
+          <b>OLI check mod 28</b></td>
     </tr>
     <tr>
       <td>33</td>
       <td>05/15</td>
-      <td>1.3.1; 1.3.2</td>
-      <td>OLI mod 5, 17-20<br>
-          <b>OLI check mod 5</b></td>
+      <td>10.3.1 H.T. for means<br>
+          10.3.2 H.T. for means</td>
+      <td>OLI mod 29: 195-200<br>
+          <b>OLI check mod 29</b></td>
     </tr>
     <tr>
       <td>34</td>
       <td>05/17</td>
-      <td>review for final exam</td>
-      <td>OLI mod 6, 21-25</td>
+      <td>Review for final exam</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>35</td>
