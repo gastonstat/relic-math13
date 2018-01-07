@@ -124,7 +124,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>5.1.3 2-way table<br>
       	  5.1.4 table probabilities</td>
       <td>OLI mod 15: 94<br>
-      	  <b>project 5.1<b><br>
+      	  <b>project 5.1</b><br>
           <b>OLI check mod 15</b></td>
     </tr>
     <tr>
