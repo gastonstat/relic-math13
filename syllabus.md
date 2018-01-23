@@ -41,7 +41,7 @@ You must have regular access to the web outside of class for reading the online 
 
 - We will be using the Math 13 Packet-Fall 2017 as the textbook during lecture.
 - The course packet is about 400 pages in length and contains daily class exercises and project assignments.
-- It can be purchased only at the BCC bookstore on the 5th floor. It retails for about $27.00.
+- It can be purchased only at the BCC bookstore on the 5th floor. It retails for $25.50 + tax.
 
 
 
@@ -131,7 +131,7 @@ Free math tutoring is available at the Learning Resource Center (LRC) in Room 11
 
 ### Dropping the course
 
-There are no incomplete grades. The instructor may elect to drop you from the class if you miss more than six days of class. However, it is your responsibility to officially drop the course should you decide to do so, otherwise you may receive an F. The drop deadline for this semester is November 15th.
+The instructor may elect to drop you from the class if you miss more than six days of class. However, it is your responsibility to officially drop the course should you decide to do so, otherwise you may receive an "F". The last day to Withdraw from regular session classes and receive a "W" for this semester is Thursday April 26.
 
 
 ### <a name="email-policy"></a>Email Policy
@@ -158,9 +158,13 @@ Students with learning and/or physical disabilities can register in the PSSD off
 ### Student Learning Outcomes
 
 Upon completion of this course, students will:
+
 1. Find and evaluate statistical information in discussions and presentations
+
 2. Use statistical procedures and standard techniques in data gathering, summary, and presentations.
+
 3. Interpret data sampling and inferential statistics (hypothesis testing and confidence intervals.)
+
 4. Describe the rules of probability and the role of probability distributions such as the Binomial, Normal, and various other models.
 
 
