@@ -52,7 +52,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>5</td>
       <td>02/06</td>
       <td>2.2.3 shapes & centers</td>
-      <td><b>proj 2.1B</b><br>
+      <td><b><a href="../projects/project-2-1B.pdf">project 2.1B</a></b><br>
           <b>OLI check mod 8</b></td>
     </tr>
     <tr>
