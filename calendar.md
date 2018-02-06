@@ -45,21 +45,21 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       	  discuss proj 2.1B<br>
           2.2.1 mean & median</td>
       <td>complete 2.2.2<br>
-          OLI mod 8: 36-39<br>
-          <b><a href="../projects/project-2-1A.pdf">project 2.1A</a></b></td>
+          OLI mod 8: 36-39</td>
     </tr>
     <tr>
       <td>5</td>
       <td>02/06</td>
       <td>2.2.3 shapes & centers</td>
-      <td><b><a href="../projects/project-2-1B.pdf">project 2.1B</a></b><br>
+      <td><b><a href="../projects/project-2-1A.pdf">project 2.1A</a></b><br>
           <b>OLI check mod 8</b></td>
     </tr>
     <tr>
       <td>6</td>
       <td>02/08</td>
       <td>2.3.1 5-number summary<br>variability around the mean</td>
-      <td>complete 2.3.2<br>OLI mod 10: 47-51</td>
+      <td>complete 2.3.2<br>OLI mod 10: 47-51<br>
+      <b><a href="../projects/project-2-1B.pdf">project 2.1B</a></b></td>
     </tr>
     <tr>
       <td>7</td>
