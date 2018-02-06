@@ -43,7 +43,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>2.1.5 more histograms<br>
           </td>
       <td>complete 2.2.2<br>
-          OLI mod 8: 36-39</td>
+          OLI mod 8: 36-39<br>
           <b>OLI check mod 7</b></td>
     </tr>
     <tr>
