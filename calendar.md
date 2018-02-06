@@ -46,7 +46,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
           2.2.1 mean & median</td>
       <td>complete 2.2.2<br>
           OLI mod 8: 36-39<br>
-          <b>project 2.1A</b></td>
+          <b><a href="../projects/project-2-1A.pdf">project 2.1A</a></b></td>
     </tr>
     <tr>
       <td>5</td>
