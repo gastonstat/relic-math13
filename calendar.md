@@ -33,24 +33,24 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>3</td>
       <td>01/30</td>
-      <td>2.1.4 histograms<br>2.1.5 more histograms</td>
+      <td>2.1.4 histograms</td>
       <td>complete 2.1.4 & 2.1.5<br>
-          OLI mod 7: 31-35<br>
-          <b>OLI check mod 7</b></td>
+          OLI mod 7: 31-35</td>
     </tr>
     <tr>
       <td>4</td>
       <td>02/01</td>
-      <td>review check mod 7<br>
-      	  discuss proj 2.1B<br>
-          2.2.1 mean & median</td>
+      <td>2.1.5 more histograms<br>
+          </td>
       <td>complete 2.2.2<br>
           OLI mod 8: 36-39</td>
+          <b>OLI check mod 7</b></td>
     </tr>
     <tr>
       <td>5</td>
       <td>02/06</td>
-      <td>2.2.3 shapes & centers</td>
+      <td>2.2.1 mean & median<br>
+          2.2.3 shapes & centers</td>
       <td><b><a href="../projects/project-2-1A.pdf">project 2.1A</a></b><br>
           <b>OLI check mod 8</b></td>
     </tr>
