@@ -66,7 +66,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>02/13</td>
       <td>2.3.3 variability around the mean<br>
           3.1.1 intro to scatterplots</td>
-      <td>complete 2.3.4<br>end mod 2 activity<br>
+      <td>complete 2.3.4<br><b><a href="../projects/project-end-module2.pdf">end mod 2</a></b><br>
           <b>OLI check mod 10</b><br>
       	  <b>OLI check unit 3</b></td>
     </tr>
