@@ -84,17 +84,21 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>9</td>
       <td>02/20</td>
       <td>3.2.1 intro to linear regression<br>
-          3.2.2 least squares regression<br>
-          3.2.3 equation of a line<br>
-          3.2.4 interpreting reg line</td>
-      <td>OLI mod 12: 66-71<br>
-          <b>OLI check mod 12</b><br>
-          <b>OLI check unit 4</b></td>
+          3.2.2 least squares regression</td>
+      <td>OLI mod 12: 66-71</td>
     </tr>
     <tr>
       <td>10</td>
       <td>02/22</td>
-      <td><b>Exam 1: Th Feb-22</b></td>
+      <td>3.2.3 equation of a line<br>
+          3.2.4 interpreting reg line</td>
+      <td><b>OLI check mod 12</b><br>
+          <b>OLI check unit 4</b></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>02/27</td>
+      <td><b>Exam 1: Tu Feb-27</b></td>
       <td><em>none</em></td>
     </tr>
   </tbody>
@@ -114,39 +118,31 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
   </thead>
   <tbody>
     <tr>
-      <td>11</td>
-      <td>02/27</td>
-      <td>5.1.1 categorical data<br>5.1.2 2-way table</td>
-      <td>OLI mod 15: 88-92</td>
-    </tr>
-    <tr>
       <td>12</td>
       <td>03/01</td>
-      <td>5.1.3 2-way table<br>
-      	  5.1.4 table probabilities</td>
+      <td>5.1.1 categorical data<br>5.1.2 2-way table</td>
+      <td>OLI mod 15: 88-92<br>5.1.3 2-way table</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>03/06</td>
+      <td>5.1.4 table probabilities</td>
       <td>OLI mod 15: 94<br>
       	  <b>project 5.1</b><br>
           <b>OLI check mod 15</b></td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>03/06</td>
+      <td>14</td>
+      <td>03/08</td>
       <td>6.1.1 law of large numbers</td>
       <td>OLI mod 16: 98-102<br>
           TH 1-2</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>03/08</td>
-      <td>6.1.2 probability rules</td>
-      <td>TH 1-3</td>
-    </tr>
-    <tr>
       <td>15</td>
       <td>03/13</td>
-      <td>6.1.3 prob distributions</td>
-      <td>OLI mod 16: 103-108<br>
-          TH 1-2<br>
+      <td>6.1.2 probability rules</td>
+      <td>6.1.3 prob distributions<br>OLI mod 16: 103-108<br>
           <b>OLI check mod 16</b></td>
     </tr>
     <tr>
