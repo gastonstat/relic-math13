@@ -92,8 +92,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>02/22</td>
       <td>3.2.3 equation of a line<br>
           3.2.4 interpreting reg line</td>
-      <td><b>OLI check mod 12</b><br>
-          <b>OLI check unit 4</b></td>
+      <td><b>OLI check mod 12</b></td>
     </tr>
     <tr>
       <td>11</td>
@@ -128,7 +127,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>03/06</td>
       <td>5.1.4 table probabilities</td>
       <td>OLI mod 15: 94<br>
-      	  <b>project 5.1</b><br>
+      	  <b><a href="../projects/project5-1.pdf">project 5.1</a></b><br>
           <b>OLI check mod 15</b></td>
     </tr>
     <tr>
