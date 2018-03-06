@@ -135,14 +135,15 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>03/08</td>
       <td>6.1.1 law of large numbers</td>
       <td>OLI mod 16: 98-102<br>
-          TH 1-2</td>
+          Take it Home 6.1.1</td>
     </tr>
     <tr>
       <td>15</td>
       <td>03/13</td>
       <td>6.1.2 probability rules</td>
       <td>6.1.3 prob distributions<br>OLI mod 16: 103-108<br>
-          <b>OLI check mod 16</b></td>
+          <b>OLI check mod 16</b><br>
+          Take it Home 6.1.2</td>
     </tr>
     <tr>
       <td>16</td>
@@ -157,7 +158,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
           6.2.2 z-scores<br>
           6.2.3 Std Normal Dist.</td>
       <td>OLI mod 17: 110-120<br>
-          TH 1-12, 1-2, 1-2</td>
+          Take it Home 6.2.1</td>
     </tr>
     <tr>
       <td>18</td>
