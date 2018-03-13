@@ -125,7 +125,8 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>13</td>
       <td>03/06</td>
-      <td>5.1.4 table probabilities</td>
+      <td>5.1.4 table probabilities<br>
+          begin probability rules</td>
       <td>OLI mod 15: 94<br>
       	  <b><a href="../projects/project5-1.pdf">project 5.1</a></b><br>
           <b>OLI check mod 15</b></td>
@@ -133,15 +134,16 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>14</td>
       <td>03/08</td>
-      <td>6.1.1 law of large numbers</td>
+      <td>6.1.1 law of large numbers<br>
+          6.1.2 probability rules</td>
       <td>OLI mod 16: 98-102<br>
           Take it Home 6.1.1</td>
     </tr>
     <tr>
       <td>15</td>
       <td>03/13</td>
-      <td>6.1.2 probability rules</td>
-      <td>6.1.3 prob distributions<br>OLI mod 16: 103-108<br>
+      <td>6.1.3 prob distributions</td>
+      <td>OLI mod 16: 103-108<br>
           <b>OLI check mod 16</b><br>
           Take it Home 6.1.2</td>
     </tr>
