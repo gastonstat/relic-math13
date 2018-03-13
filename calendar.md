@@ -151,7 +151,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td>16</td>
       <td>03/15</td>
       <td>Binomial probability</td>
-      <td>finish binomial</td>
+      <td>Take it Home 6.1.3</td>
     </tr>
     <tr>
       <td>17</td>
