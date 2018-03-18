@@ -7,6 +7,8 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
 
 -----
 
+<em>Subject to changes depending on the pace of the course.</em>
+
 <table>
   <thead>
     <tr>
@@ -104,6 +106,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
  </table>
 
 <br>
+<em>Subject to changes depending on the pace of the course.</em>
 <br>
 
 <table>
@@ -142,7 +145,8 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>15</td>
       <td>03/13</td>
-      <td>6.1.3 prob distributions</td>
+      <td>6.1.3 prob distributions<br>
+          Expected Value and Variance</td>
       <td>OLI mod 16: 103-108<br>
           <b>OLI check mod 16</b><br>
           Take it Home 6.1.2</td>
@@ -150,17 +154,18 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>16</td>
       <td>03/15</td>
-      <td>Binomial probability</td>
-      <td>Take it Home 6.1.3</td>
+      <td>Start Binomial probability<br>
+          Coin tossing examples</td>
+      <td><em>none</em></td>
     </tr>
     <tr>
       <td>17</td>
       <td>03/20</td>
-      <td>6.2.1 continuous RV<br>
-          6.2.2 z-scores<br>
-          6.2.3 Std Normal Dist.</td>
-      <td>OLI mod 17: 110-120<br>
-          Take it Home 6.2.1</td>
+      <td>End Binomial probability<br>
+          6.2.2 z-scores</td>
+      <td>Binomial Activity pages 202-203<br>
+          6.2.1 continuous Rand Vars<br>
+          OLI mod 17: 110-115</td>
     </tr>
     <tr>
       <td>18</td>
@@ -171,19 +176,16 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     <tr>
       <td>19</td>
       <td>03/27</td>
-      <td>7.1.1 Sample proportions</td>
-      <td>OLI mod 18: 122-124<br>
-      	  <b>OLI check mod 17</b><br>
-      	  <b>OLI check unit 7</b></td>
+      <td>6.2.3 Std Normal Dist.</td>
+      <td>OLI mod 17: 116-120</td>
     </tr>
     <tr>
       <td>20</td>
       <td>03/29</td>
-      <td>7.1.2 Central Limit Theorem<br>
-          7.1.3 Sampling Distributions</td>
-      <td>OLI mod 19: 125-133<br>
-      	  OLI mod 20: 135-139<br>
-      	  <b>OLI check mod 19</b></td>
+      <td>7.1.1 Sample proportions</td>
+      <td>OLI mod 18: 122-124<br>
+          <b>OLI check mod 17</b><br>
+          <b>OLI check unit 7</b></td>
     </tr>
 
     <tr>
@@ -201,22 +203,40 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
 
     <tr>
       <td>23</td>
-      <td>04/10</td>
+      <td>04/12</td>
+      <td>7.1.2 Central Limit Theorem<br>
+          7.1.3 Sampling Distributions</td>
+      <td>OLI mod 19: 125-133<br>
+          OLI mod 20: 135-139<br>
+          <b>OLI check mod 19</b></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>04/12</td>
       <td>7.2.1 Confidence intervals<br>
       	  7.2.2 Sampling distributions</td>
       <td><b>OLI check mod 20</b>
       	  <b>OLI check unit 8</b></td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>04/12</td>
-      <td><b>Exam 2: Th Apr-12</b></td>
+      <td>25</td>
+      <td>04/17</td>
+      <td>8.1.1 C.I. for props<br>
+          8.1.2 Making C.I.</td>
+      <td>OLI mod 21: 141-145<br>
+          <b>OLI check mod 21</b></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>04/19</td>
+      <td><b>Exam 2: Th Apr-19</b></td>
       <td><em>none</em></td>
     </tr>
   </tbody>
  </table>
 
 <br>
+<em>Subject to changes depending on the pace of the course.</em>
 <br>
 
 <table>
@@ -230,24 +250,17 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
-      <td>04/17</td>
-      <td>8.1.1 C.I. for props<br>
-          8.1.2 Making C.I.</td>
-      <td>OLI mod 21: 141-145<br>
-      	  <b>OLI check mod 21</b></td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>04/19</td>
+      <td>27</td>
+      <td>04/24</td>
       <td>8.2.1 Testing a hypothesis<br>
-          8.2.2 Hypothesis Testing</td>
+          8.2.2 Hypothesis Testing<br>
+          </td>
       <td>OLI mod 22: 146-152<br>
       	  <b>OLI check mod 22</b></td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>04/24</td>
+      <td>28</td>
+      <td>04/26</td>
       <td>8.3.1 H.T. for props<br>
           8.3.2 H.T. for props</td>
       <td>OLI mod 23: 154-158<br>
@@ -255,33 +268,25 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       	  <b>OLI check unit 9</b></td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>04/26</td>
-      <td>9.1.1 Sampling distr 2-props<br>
+      <td>29</td>
+      <td>05/01</td>
+      <td>
+          9.1.1 Sampling distr 2-props<br>
           9.1.2 Sampling distr 2-props</td>
       <td>OLI mod 24: 160-166<br>
           <b>OLI check 24</b></td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>05/01</td>
-      <td>9.2.1 C.I. for 2-props<br>
-          9.2.2 C.I. for 2-props</td>
-      <td>OLI mod 25: 168-171<br>
-      	  <b>OLI check mod 25</b></td>
-    </tr>
-    <tr>
       <td>30</td>
       <td>05/03</td>
-      <td>9.3.1 Test for 2-props<br>
-          9.3.2 Test for 2-props</td>
-      <td>OLI mod 26: 173-180<br>
-          <b>OLI check mod 26</b>
-          <b>OLI check unit 10</b></td>
+      <td>10.1.1 Sampling distr means<br>
+          10.1.2 CLT for means</td>
+      <td>OLI mod 27: 182-188<br>
+          <b>OLI check mod 27</b></td>
     </tr>
     <tr>
       <td>31</td>
-      <td>05/08</td>
+      <td>05/10</td>
       <td>10.1.1 Sampling distr means<br>
           10.1.2 CLT for menas</td>
       <td>OLI mod 27: 182-188<br>
@@ -289,7 +294,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     </tr>
     <tr>
       <td>32</td>
-      <td>05/10</td>
+      <td>05/15</td>
       <td>10.2.1 t-distribution<br>
           10.2.2 C.I. for means</td>
       <td>OLI mod 28: 190-193<br>
@@ -297,7 +302,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     </tr>
     <tr>
       <td>33</td>
-      <td>05/15</td>
+      <td>05/17</td>
       <td>10.3.1 H.T. for means<br>
           10.3.2 H.T. for means</td>
       <td>OLI mod 29: 195-200<br>
@@ -305,12 +310,6 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     </tr>
     <tr>
       <td>34</td>
-      <td>05/17</td>
-      <td>Review for final exam</td>
-      <td>TBD</td>
-    </tr>
-    <tr>
-      <td>35</td>
       <td>05/22</td>
       <td><b>Final exam</b></td>
       <td><em>none</em></td>
