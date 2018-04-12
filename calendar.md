@@ -203,34 +203,45 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
 
     <tr>
       <td>23</td>
-      <td>04/12</td>
+      <td>04/10</td>
       <td>7.1.2 Central Limit Theorem<br>
-          7.1.3 Sampling Distributions</td>
+          </td>
       <td>OLI mod 19: 125-133<br>
           OLI mod 20: 135-139<br>
-          <b>OLI check mod 19</b></td>
+          <b><em>OLI check mod 19</em></b></td>
     </tr>
     <tr>
       <td>24</td>
       <td>04/12</td>
-      <td>7.2.1 Confidence intervals<br>
-      	  7.2.2 Sampling distributions</td>
-      <td><b>OLI check mod 20</b>
-      	  <b>OLI check unit 8</b></td>
+      <td>7.1.3 Sampling Distributions<br>
+          <br>
+      	  </td>
+      <td><b><em>OLI check mod 20</em></b><br>
+      	  <b><em>OLI check unit 8</em></b></td>
     </tr>
     <tr>
       <td>25</td>
       <td>04/17</td>
-      <td>8.1.1 C.I. for props<br>
-          8.1.2 Making C.I.</td>
-      <td>OLI mod 21: 141-145<br>
-          <b>OLI check mod 21</b></td>
+      <td>7.2.1 Confidence intervals<br>
+          7.2.2 Sampling distributions</td>
+      <td>OLI mod 19: 125-133<br>
+          OLI mod 20: 135-139<br>
+          <b><em>OLI check mod 19</em></b></td>
     </tr>
     <tr>
       <td>26</td>
       <td>04/19</td>
-      <td><b>Exam 2: Th Apr-19</b></td>
-      <td><em>none</em></td>
+      <td>8.1.1 C.I. for props<br>
+          8.1.2 Making C.I.</td>
+      <td>OLI mod 21: 141-145<br>
+          <b><em>OLI check mod 21</em></b></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>04/24</td>
+      <td><b>Exam 2: Tu Apr-24</b></td>
+      <td>OLI mod 22: 146-152<br>
+          <em>none</em></td>
     </tr>
   </tbody>
  </table>
@@ -251,7 +262,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
   <tbody>
     <tr>
       <td>27</td>
-      <td>04/24</td>
+      <td>04/26</td>
       <td>8.2.1 Testing a hypothesis<br>
           8.2.2 Hypothesis Testing<br>
           </td>
@@ -260,7 +271,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     </tr>
     <tr>
       <td>28</td>
-      <td>04/26</td>
+      <td>05/01</td>
       <td>8.3.1 H.T. for props<br>
           8.3.2 H.T. for props</td>
       <td>OLI mod 23: 154-158<br>
@@ -269,7 +280,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     </tr>
     <tr>
       <td>29</td>
-      <td>05/01</td>
+      <td>05/03</td>
       <td>
           9.1.1 Sampling distr 2-props<br>
           9.1.2 Sampling distr 2-props</td>
@@ -278,7 +289,7 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
     </tr>
     <tr>
       <td>30</td>
-      <td>05/03</td>
+      <td>05/08</td>
       <td>10.1.1 Sampling distr means<br>
           10.1.2 CLT for means</td>
       <td>OLI mod 27: 182-188<br>
