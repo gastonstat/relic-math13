@@ -207,9 +207,15 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
 
 ## Statistical Inference
 
-From 04/10 to 05/17 The goal is to cover the following topics:
+From 04/10 to 05/17 the goal is to cover the following topics:
 
-- Introduction to Inference (OLI mod 18)
+- Normal Distribution (OLI mod 17)
+- Introduction to Inference (OLI mods 18/19)
+    + Population vs Sample
+    + Parameters and Statistics
+    + Sampling Distributions
+    + Standard Error
+    + Central Limit Theorem 
 - Distribution of Sample Means (OLI mod 27)
 - Distribution of Sample Proportions (OLI mod 18)
 - Introduction to Statistical Inference (OLI mod 20)
@@ -218,6 +224,7 @@ From 04/10 to 05/17 The goal is to cover the following topics:
 - Introduction to Hypothesis Testing (OLI mod 22)
 - Hypothesis Test for a Population Mean (OLI mod 29)
 - Hypothesis Test for a Population Proportion (OLI mod 23)
+- Time permiting, mods 24-25-30
 
 __Final Test__ scheduled on Tue 05/22 during class time.
 
