@@ -224,7 +224,7 @@ From 04/10 to 05/17 the goal is to cover the following topics:
 - Introduction to Hypothesis Testing (OLI mod 22)
 - Hypothesis Test for a Population Mean (OLI mod 29)
 - Hypothesis Test for a Population Proportion (OLI mod 23)
-- Time permiting, mods 24-25-30
+- Time permitting, mods 24-25-30
 
 __Final Test__ scheduled on Tue 05/22 during class time.
 
