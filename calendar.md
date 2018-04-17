@@ -200,132 +200,26 @@ Note: Checkpoints are due before the next day of classes from the day displayed 
       <td><em>Spring break</em></td>
       <td><em>none</em></td>
     </tr>
-
-    <tr>
-      <td>23</td>
-      <td>04/10</td>
-      <td>7.1.2 Central Limit Theorem<br>
-          </td>
-      <td>OLI mod 19: 125-133<br>
-          OLI mod 20: 135-139<br>
-          <b><em>OLI check mod 19</em></b></td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>04/12</td>
-      <td>7.1.3 Sampling Distributions<br>
-          <br>
-      	  </td>
-      <td><b><em>OLI check mod 20</em></b><br>
-      	  <b><em>OLI check unit 8</em></b></td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>04/17</td>
-      <td>7.2.1 Confidence intervals<br>
-          7.2.2 Sampling distributions</td>
-      <td>OLI mod 19: 125-133<br>
-          OLI mod 20: 135-139<br>
-          <b><em>OLI check mod 19</em></b></td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>04/19</td>
-      <td>8.1.1 C.I. for props<br>
-          8.1.2 Making C.I.</td>
-      <td>OLI mod 21: 141-145<br>
-          <b><em>OLI check mod 21</em></b></td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>04/24</td>
-      <td><b>Exam 2: Tu Apr-24</b></td>
-      <td>OLI mod 22: 146-152<br>
-          <em>none</em></td>
-    </tr>
   </tbody>
  </table>
 
-<br>
-<em>Subject to changes depending on the pace of the course.</em>
-<br>
+-----
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Num</th>
-      <th align="left">Date</th>
-      <th align="left">In-class</th>
-      <th align="left">HW</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>27</td>
-      <td>04/26</td>
-      <td>8.2.1 Testing a hypothesis<br>
-          8.2.2 Hypothesis Testing<br>
-          </td>
-      <td>OLI mod 22: 146-152<br>
-      	  <b>OLI check mod 22</b></td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>05/01</td>
-      <td>8.3.1 H.T. for props<br>
-          8.3.2 H.T. for props</td>
-      <td>OLI mod 23: 154-158<br>
-      	  <b>OLI check mod 23</b><br>
-      	  <b>OLI check unit 9</b></td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>05/03</td>
-      <td>
-          9.1.1 Sampling distr 2-props<br>
-          9.1.2 Sampling distr 2-props</td>
-      <td>OLI mod 24: 160-166<br>
-          <b>OLI check 24</b></td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>05/08</td>
-      <td>10.1.1 Sampling distr means<br>
-          10.1.2 CLT for means</td>
-      <td>OLI mod 27: 182-188<br>
-          <b>OLI check mod 27</b></td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>05/10</td>
-      <td>10.1.1 Sampling distr means<br>
-          10.1.2 CLT for menas</td>
-      <td>OLI mod 27: 182-188<br>
-          <b>OLI check mod 27</b></td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>05/15</td>
-      <td>10.2.1 t-distribution<br>
-          10.2.2 C.I. for means</td>
-      <td>OLI mod 28: 190-193<br>
-          <b>OLI check mod 28</b></td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>05/17</td>
-      <td>10.3.1 H.T. for means<br>
-          10.3.2 H.T. for means</td>
-      <td>OLI mod 29: 195-200<br>
-          <b>OLI check mod 29</b></td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>05/22</td>
-      <td><b>Final exam</b></td>
-      <td><em>none</em></td>
-    </tr>
-  </tbody>
- </table>
+## Statistical Inference
+
+From 04/10 to 05/17 The goal is to cover the following topics:
+
+- Introduction to Inference (OLI mod 18)
+- Distribution of Sample Means (OLI mod 27)
+- Distribution of Sample Proportions (OLI mod 18)
+- Introduction to Statistical Inference (OLI mod 20)
+- Estimating a Population Mean (OLI mod 28)
+- Estimating a Population Proportion (OLI mod 21)
+- Introduction to Hypothesis Testing (OLI mod 22)
+- Hypothesis Test for a Population Mean (OLI mod 29)
+- Hypothesis Test for a Population Proportion (OLI mod 23)
+
+__Final Test__ scheduled on Tue 05/22 during class time.
+
 
 
